@@ -9,6 +9,8 @@ export default function BusinessIdeaValidator() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    setResponse(""); // Clear previous response
+    setAnalysis(null); // Clear analysis result
 
     const res = await fetch("http://127.0.0.1:5000/api/validate-idea", {
       method: "POST",
@@ -17,10 +19,17 @@ export default function BusinessIdeaValidator() {
     });
 
     const data = await res.json();
-    setResponse(data.message);
+    if (data.error) {
+      setResponse(`❌ ${data.error}`);
+    } else if (data.verdict) {
+      setResponse(`✅ ${data.verdict} (Rating: ${data.rating})`);
+    } else {
+      setResponse(`ℹ️ ${data.message}`);
+    }
   };
 
   const analyzeIdea = async () => {
+    setAnalysis(null); // Clear previous analysis
     const res = await fetch("http://127.0.0.1:5000/api/analyze-idea", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -28,7 +37,11 @@ export default function BusinessIdeaValidator() {
     });
 
     const data = await res.json();
-    setAnalysis(data);
+    if (!data.error) {
+      setAnalysis(data);
+    } else {
+      setResponse(`❌ ${data.error}`);
+    }
   };
 
   return (
@@ -82,26 +95,47 @@ export default function BusinessIdeaValidator() {
         {/* Validation result */}
         {response && (
           <div className="mt-6 p-4 bg-green-100/20 border-l-4 border-green-400 text-green-100 rounded shadow">
-            ✅ {response}
+            {response}
           </div>
         )}
 
         {/* Analysis result */}
         {analysis && (
           <div className="mt-6 p-4 bg-gradient-to-r from-gray-800 to-gray-700 text-white rounded-xl shadow-inner">
-            <h2 className="text-xl font-bold mb-2">📊 Analysis Result:</h2>
-            <p>
-              <strong>Strengths:</strong> {analysis.strengths.join(", ")}
-            </p>
-            <p>
-              <strong>Weaknesses:</strong> {analysis.weaknesses.join(", ")}
-            </p>
-            <p>
-              <strong>Rating:</strong> {analysis.rating}
-            </p>
-            <p>
-              <strong>Verdict:</strong> {analysis.verdict}
-            </p>
+            <h2 className="text-xl font-bold mb-3">📊 Analysis Result:</h2>
+            <div className="mb-2">
+              <p className="font-semibold">✅ Strengths:</p>
+              <ul className="list-disc list-inside text-green-300">
+                {analysis.strengths.map((s, idx) => (
+                  <li key={idx}>{s}</li>
+                ))}
+              </ul>
+            </div>
+            <div className="mb-2">
+              <p className="font-semibold">⚠️ Weaknesses:</p>
+              <ul className="list-disc list-inside text-red-300">
+                {analysis.weaknesses.map((w, idx) => (
+                  <li key={idx}>{w}</li>
+                ))}
+              </ul>
+            </div>
+            <div className="mt-3">
+              <p className="font-semibold">🎯 Success Probability:</p>
+              <div className="w-full bg-gray-600 rounded-full h-4 mt-1">
+                <div
+                  className="bg-green-500 h-4 rounded-full text-xs text-center text-white"
+                  style={{
+                    width: analysis.success_probability.replace("%", "") + "%",
+                  }}
+                >
+                  {analysis.success_probability}
+                </div>
+              </div>
+            </div>
+            <div className="mt-3">
+              <p className="font-semibold">💡 Advice:</p>
+              <p className="italic text-cyan-300">{analysis.advice}</p>
+            </div>
           </div>
         )}
       </div>
