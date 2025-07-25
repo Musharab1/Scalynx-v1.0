@@ -1,1001 +1,501 @@
-idea,category,innovation,demand,feasibility,label
-Business Idea 1,E-commerce,6.9,7.0,1.5,invalid
-Business Idea 2,E-commerce,4.6,1.3,3.6,invalid
-Business Idea 3,E-commerce,1.9,9.8,6.9,valid
-Business Idea 4,FinTech,4.5,8.6,9.2,valid
-Business Idea 5,E-commerce,1.2,8.1,4.0,valid
-Business Idea 6,HealthTech,8.1,2.3,8.8,valid
-Business Idea 7,Green Energy,9.2,4.3,2.1,valid
-Business Idea 8,FinTech,7.7,7.1,4.2,valid
-Business Idea 9,AI/ML,6.8,2.7,9.8,invalid
-Business Idea 10,E-commerce,5.3,5.2,7.1,valid
-Business Idea 11,Green Energy,9.4,8.7,4.2,valid
-Business Idea 12,EdTech,4.9,7.4,7.7,valid
-Business Idea 13,EdTech,1.7,3.4,5.9,valid
-Business Idea 14,E-commerce,4.7,5.2,5.4,valid
-Business Idea 15,E-commerce,1.9,6.7,5.2,invalid
-Business Idea 16,Real Estate,3.4,4.6,3.7,valid
-Business Idea 17,Logistics,5.5,2.4,4.5,valid
-Business Idea 18,Green Energy,1.3,2.3,3.2,invalid
-Business Idea 19,FinTech,6.1,4.7,2.6,invalid
-Business Idea 20,HealthTech,2.9,1.4,4.1,valid
-Business Idea 21,E-commerce,5.6,4.5,4.6,valid
-Business Idea 22,E-commerce,3.3,8.2,6.5,valid
-Business Idea 23,Real Estate,9.5,1.6,5.0,invalid
-Business Idea 24,AI/ML,5.7,8.4,9.3,invalid
-Business Idea 25,E-commerce,7.6,3.3,9.4,valid
-Business Idea 26,HealthTech,7.5,1.0,9.7,valid
-Business Idea 27,Logistics,2.7,7.7,9.5,invalid
-Business Idea 28,E-commerce,6.0,8.8,4.0,invalid
-Business Idea 29,HealthTech,3.1,7.2,2.6,invalid
-Business Idea 30,Green Energy,5.3,4.7,1.4,valid
-Business Idea 31,E-commerce,4.1,9.9,6.1,valid
-Business Idea 32,FinTech,5.0,6.4,2.4,valid
-Business Idea 33,HealthTech,3.2,8.3,8.6,valid
-Business Idea 34,Green Energy,2.0,5.4,2.7,valid
-Business Idea 35,FinTech,7.8,1.1,6.3,valid
-Business Idea 36,EdTech,6.5,4.3,2.2,invalid
-Business Idea 37,AI/ML,1.2,7.0,8.4,valid
-Business Idea 38,FinTech,5.7,8.4,8.5,valid
-Business Idea 39,Real Estate,1.9,8.4,5.5,invalid
-Business Idea 40,FinTech,8.2,9.1,8.6,valid
-Business Idea 41,E-commerce,5.2,1.8,8.1,valid
-Business Idea 42,Logistics,8.0,3.5,8.4,valid
-Business Idea 43,Real Estate,8.5,8.0,5.2,invalid
-Business Idea 44,Real Estate,5.4,4.2,1.3,valid
-Business Idea 45,E-commerce,2.6,3.0,8.7,valid
-Business Idea 46,HealthTech,9.2,9.9,8.6,invalid
-Business Idea 47,Green Energy,1.1,8.0,5.1,invalid
-Business Idea 48,HealthTech,5.3,8.7,1.9,invalid
-Business Idea 49,E-commerce,2.6,4.2,2.1,valid
-Business Idea 50,E-commerce,2.8,7.7,9.2,valid
-Business Idea 51,EdTech,5.7,9.7,4.0,valid
-Business Idea 52,AI/ML,1.3,6.6,8.7,invalid
-Business Idea 53,E-commerce,4.9,9.7,8.8,invalid
-Business Idea 54,E-commerce,3.7,8.1,2.6,valid
-Business Idea 55,Real Estate,8.6,1.8,6.8,invalid
-Business Idea 56,HealthTech,8.6,6.4,9.9,valid
-Business Idea 57,EdTech,3.6,9.9,8.9,invalid
-Business Idea 58,AI/ML,1.2,8.9,2.4,invalid
-Business Idea 59,Real Estate,4.6,3.8,1.6,valid
-Business Idea 60,Green Energy,4.5,7.8,5.2,invalid
-Business Idea 61,AI/ML,4.0,8.8,3.9,invalid
-Business Idea 62,Green Energy,1.0,8.5,3.3,valid
-Business Idea 63,Green Energy,7.2,8.6,1.7,valid
-Business Idea 64,AI/ML,9.1,7.7,1.3,invalid
-Business Idea 65,E-commerce,8.6,5.2,3.7,valid
-Business Idea 66,HealthTech,2.8,2.0,9.1,valid
-Business Idea 67,HealthTech,5.9,8.3,9.6,invalid
-Business Idea 68,EdTech,6.0,2.5,7.9,invalid
-Business Idea 69,EdTech,8.9,8.1,6.5,invalid
-Business Idea 70,Real Estate,4.9,9.4,8.5,invalid
-Business Idea 71,HealthTech,1.5,1.2,9.3,invalid
-Business Idea 72,Green Energy,5.1,7.7,4.2,valid
-Business Idea 73,HealthTech,6.1,4.8,3.3,invalid
-Business Idea 74,FinTech,7.8,4.4,4.3,valid
-Business Idea 75,Real Estate,2.4,7.4,9.5,valid
-Business Idea 76,Logistics,9.7,9.8,9.7,valid
-Business Idea 77,Real Estate,6.5,3.3,6.6,valid
-Business Idea 78,EdTech,6.5,3.5,9.2,invalid
-Business Idea 79,E-commerce,6.9,1.6,4.6,valid
-Business Idea 80,HealthTech,3.7,6.5,2.7,valid
-Business Idea 81,Green Energy,4.6,1.3,8.1,valid
-Business Idea 82,FinTech,5.6,9.3,4.9,valid
-Business Idea 83,FinTech,2.6,5.2,1.9,valid
-Business Idea 84,AI/ML,9.6,3.7,7.3,valid
-Business Idea 85,Green Energy,8.5,4.1,3.7,invalid
-Business Idea 86,EdTech,8.6,3.8,6.5,valid
-Business Idea 87,Green Energy,6.8,1.6,6.3,invalid
-Business Idea 88,HealthTech,3.6,1.6,4.3,valid
-Business Idea 89,AI/ML,8.4,4.0,3.6,invalid
-Business Idea 90,EdTech,1.7,8.7,3.4,valid
-Business Idea 91,EdTech,8.9,3.3,9.5,invalid
-Business Idea 92,AI/ML,3.8,6.6,8.0,invalid
-Business Idea 93,Green Energy,6.0,9.4,1.4,valid
-Business Idea 94,EdTech,2.3,6.1,2.3,valid
-Business Idea 95,E-commerce,5.1,8.1,7.3,valid
-Business Idea 96,Real Estate,9.8,6.9,9.0,invalid
-Business Idea 97,Real Estate,5.6,7.9,7.5,valid
-Business Idea 98,Logistics,2.5,9.2,2.5,invalid
-Business Idea 99,AI/ML,1.8,4.9,5.1,invalid
-Business Idea 100,AI/ML,1.1,4.3,3.3,invalid
-Business Idea 101,E-commerce,8.4,8.5,9.2,valid
-Business Idea 102,FinTech,1.8,2.0,8.2,invalid
-Business Idea 103,HealthTech,7.0,1.2,2.4,valid
-Business Idea 104,Real Estate,1.3,3.4,8.6,valid
-Business Idea 105,FinTech,5.5,5.8,8.6,invalid
-Business Idea 106,AI/ML,8.1,3.0,1.9,invalid
-Business Idea 107,Logistics,7.2,3.5,4.6,invalid
-Business Idea 108,Real Estate,1.9,7.8,4.9,valid
-Business Idea 109,AI/ML,9.4,2.3,6.9,valid
-Business Idea 110,E-commerce,7.3,9.0,3.7,valid
-Business Idea 111,AI/ML,6.2,6.0,2.0,valid
-Business Idea 112,Logistics,8.2,2.2,5.0,invalid
-Business Idea 113,Logistics,7.5,7.3,9.1,valid
-Business Idea 114,FinTech,4.7,1.6,3.3,invalid
-Business Idea 115,HealthTech,7.4,1.6,4.0,valid
-Business Idea 116,HealthTech,2.1,5.3,2.6,invalid
-Business Idea 117,Real Estate,5.9,7.6,1.0,valid
-Business Idea 118,AI/ML,1.9,4.2,5.7,valid
-Business Idea 119,EdTech,5.1,4.6,5.1,invalid
-Business Idea 120,EdTech,3.7,5.5,3.0,invalid
-Business Idea 121,Green Energy,8.6,7.2,4.2,invalid
-Business Idea 122,AI/ML,6.7,2.6,6.3,valid
-Business Idea 123,AI/ML,2.8,6.5,6.6,valid
-Business Idea 124,AI/ML,6.7,9.9,5.9,valid
-Business Idea 125,Logistics,6.1,6.7,7.0,valid
-Business Idea 126,FinTech,6.9,3.3,4.6,valid
-Business Idea 127,AI/ML,8.6,4.4,2.5,invalid
-Business Idea 128,Real Estate,9.1,2.5,5.3,valid
-Business Idea 129,Logistics,4.0,3.1,1.3,valid
-Business Idea 130,Green Energy,3.9,3.8,1.7,invalid
-Business Idea 131,FinTech,7.8,6.0,8.0,invalid
-Business Idea 132,Logistics,4.8,7.5,5.1,invalid
-Business Idea 133,E-commerce,8.4,1.9,2.2,valid
-Business Idea 134,HealthTech,1.9,1.3,4.8,invalid
-Business Idea 135,EdTech,3.9,3.7,9.9,invalid
-Business Idea 136,Green Energy,4.4,3.7,6.7,invalid
-Business Idea 137,Logistics,1.6,2.6,9.7,invalid
-Business Idea 138,EdTech,6.3,2.5,3.3,invalid
-Business Idea 139,Green Energy,6.5,7.8,6.1,valid
-Business Idea 140,HealthTech,1.4,7.7,2.3,valid
-Business Idea 141,FinTech,1.1,3.6,1.6,invalid
-Business Idea 142,Logistics,6.5,7.9,8.7,invalid
-Business Idea 143,EdTech,8.8,8.9,7.4,invalid
-Business Idea 144,FinTech,4.9,8.4,8.0,invalid
-Business Idea 145,E-commerce,6.3,5.4,2.5,invalid
-Business Idea 146,HealthTech,6.3,4.5,8.3,valid
-Business Idea 147,FinTech,8.1,6.3,4.9,valid
-Business Idea 148,HealthTech,8.0,6.9,8.8,invalid
-Business Idea 149,AI/ML,9.1,7.0,6.7,invalid
-Business Idea 150,E-commerce,6.5,4.9,7.7,valid
-Business Idea 151,FinTech,1.0,7.6,6.7,invalid
-Business Idea 152,HealthTech,2.2,1.2,8.7,invalid
-Business Idea 153,EdTech,6.4,3.7,4.5,invalid
-Business Idea 154,EdTech,6.5,6.5,9.9,invalid
-Business Idea 155,E-commerce,1.8,7.7,4.6,valid
-Business Idea 156,E-commerce,2.5,8.1,4.9,valid
-Business Idea 157,Logistics,5.3,4.2,1.3,valid
-Business Idea 158,EdTech,2.1,8.4,9.8,invalid
-Business Idea 159,Real Estate,1.4,4.4,5.2,invalid
-Business Idea 160,AI/ML,1.5,8.2,7.3,invalid
-Business Idea 161,HealthTech,5.2,7.4,1.6,invalid
-Business Idea 162,FinTech,1.0,3.5,1.7,invalid
-Business Idea 163,HealthTech,2.0,7.7,5.3,valid
-Business Idea 164,EdTech,9.4,8.4,5.3,valid
-Business Idea 165,EdTech,5.2,2.3,6.6,valid
-Business Idea 166,Green Energy,7.1,2.0,8.4,invalid
-Business Idea 167,FinTech,5.7,2.9,2.0,invalid
-Business Idea 168,AI/ML,4.5,4.1,3.9,invalid
-Business Idea 169,HealthTech,7.6,7.0,5.0,valid
-Business Idea 170,Green Energy,7.7,4.7,4.3,invalid
-Business Idea 171,Real Estate,2.7,3.4,1.1,invalid
-Business Idea 172,E-commerce,1.4,5.0,9.8,valid
-Business Idea 173,HealthTech,3.2,8.6,7.0,invalid
-Business Idea 174,AI/ML,6.7,6.1,2.5,invalid
-Business Idea 175,Real Estate,8.0,3.3,6.2,invalid
-Business Idea 176,Green Energy,2.9,9.5,9.6,invalid
-Business Idea 177,Green Energy,6.9,9.6,6.1,invalid
-Business Idea 178,HealthTech,8.7,9.8,8.4,valid
-Business Idea 179,EdTech,9.4,8.7,8.8,valid
-Business Idea 180,FinTech,1.2,7.6,5.1,valid
-Business Idea 181,Green Energy,7.8,2.3,7.8,valid
-Business Idea 182,Real Estate,3.4,10.0,7.1,valid
-Business Idea 183,EdTech,7.0,1.3,7.5,valid
-Business Idea 184,HealthTech,6.8,6.9,8.1,invalid
-Business Idea 185,EdTech,2.3,5.4,5.9,invalid
-Business Idea 186,Real Estate,7.1,1.8,10.0,invalid
-Business Idea 187,Logistics,3.9,7.9,7.6,valid
-Business Idea 188,AI/ML,4.7,5.1,7.9,invalid
-Business Idea 189,AI/ML,9.9,4.2,3.0,invalid
-Business Idea 190,Green Energy,8.3,7.8,1.3,valid
-Business Idea 191,Green Energy,2.0,6.7,5.1,valid
-Business Idea 192,FinTech,2.8,1.5,2.1,valid
-Business Idea 193,EdTech,4.4,8.0,8.1,invalid
-Business Idea 194,E-commerce,4.3,4.6,1.4,valid
-Business Idea 195,E-commerce,3.1,1.7,6.9,invalid
-Business Idea 196,Green Energy,1.9,8.4,7.8,invalid
-Business Idea 197,FinTech,8.4,7.2,2.8,invalid
-Business Idea 198,Real Estate,2.8,4.7,6.6,valid
-Business Idea 199,Real Estate,9.5,6.4,6.4,invalid
-Business Idea 200,EdTech,3.2,4.3,5.8,invalid
-Business Idea 201,HealthTech,3.1,1.2,7.6,invalid
-Business Idea 202,EdTech,7.6,8.9,9.2,invalid
-Business Idea 203,EdTech,7.9,5.5,8.1,invalid
-Business Idea 204,FinTech,8.9,7.2,5.8,invalid
-Business Idea 205,Real Estate,6.5,9.9,6.2,invalid
-Business Idea 206,Green Energy,8.0,4.8,8.1,invalid
-Business Idea 207,Logistics,8.6,7.6,9.9,invalid
-Business Idea 208,EdTech,6.4,4.0,3.8,invalid
-Business Idea 209,E-commerce,1.4,4.0,9.3,valid
-Business Idea 210,HealthTech,6.9,7.6,3.7,valid
-Business Idea 211,Green Energy,7.4,1.9,9.7,invalid
-Business Idea 212,AI/ML,5.2,5.8,3.1,invalid
-Business Idea 213,HealthTech,6.2,3.9,7.5,invalid
-Business Idea 214,Real Estate,2.9,5.6,7.7,invalid
-Business Idea 215,Logistics,7.0,2.6,7.2,invalid
-Business Idea 216,FinTech,2.5,8.8,5.8,valid
-Business Idea 217,Logistics,3.1,2.0,5.1,valid
-Business Idea 218,HealthTech,2.0,1.6,9.9,invalid
-Business Idea 219,Green Energy,5.5,1.2,3.1,invalid
-Business Idea 220,HealthTech,2.2,2.9,4.3,valid
-Business Idea 221,EdTech,2.6,5.5,8.7,valid
-Business Idea 222,HealthTech,7.7,3.8,5.4,valid
-Business Idea 223,Green Energy,3.3,3.4,4.1,invalid
-Business Idea 224,AI/ML,5.0,7.9,3.7,invalid
-Business Idea 225,E-commerce,8.9,5.6,9.3,valid
-Business Idea 226,E-commerce,4.7,1.7,9.5,valid
-Business Idea 227,EdTech,4.7,6.3,8.5,invalid
-Business Idea 228,Real Estate,1.8,8.1,1.8,invalid
-Business Idea 229,FinTech,6.4,7.4,9.0,valid
-Business Idea 230,EdTech,7.7,6.6,9.8,valid
-Business Idea 231,EdTech,6.5,3.1,4.4,valid
-Business Idea 232,E-commerce,4.5,8.3,1.3,invalid
-Business Idea 233,HealthTech,3.8,8.5,6.5,invalid
-Business Idea 234,EdTech,9.1,2.8,7.3,invalid
-Business Idea 235,FinTech,9.9,6.8,1.8,valid
-Business Idea 236,Logistics,8.2,1.5,2.9,invalid
-Business Idea 237,Green Energy,4.5,9.7,3.9,invalid
-Business Idea 238,Green Energy,6.6,9.8,6.7,invalid
-Business Idea 239,FinTech,2.1,1.5,8.5,valid
-Business Idea 240,HealthTech,3.2,4.7,3.5,valid
-Business Idea 241,HealthTech,6.7,7.1,1.8,valid
-Business Idea 242,HealthTech,7.2,9.0,1.1,invalid
-Business Idea 243,Logistics,3.8,3.3,8.0,valid
-Business Idea 244,AI/ML,5.9,1.3,2.4,valid
-Business Idea 245,Logistics,3.5,8.4,4.2,valid
-Business Idea 246,FinTech,5.4,2.1,6.0,valid
-Business Idea 247,Green Energy,2.5,6.9,4.4,invalid
-Business Idea 248,Green Energy,5.5,9.7,2.0,valid
-Business Idea 249,HealthTech,2.2,4.5,5.1,invalid
-Business Idea 250,AI/ML,3.2,6.1,1.6,valid
-Business Idea 251,FinTech,8.2,8.6,8.3,invalid
-Business Idea 252,Logistics,4.5,9.8,1.7,invalid
-Business Idea 253,E-commerce,3.0,5.6,8.9,valid
-Business Idea 254,AI/ML,2.4,4.4,2.8,valid
-Business Idea 255,Real Estate,8.1,2.4,4.0,invalid
-Business Idea 256,AI/ML,5.4,3.5,7.0,invalid
-Business Idea 257,HealthTech,6.1,9.1,9.8,valid
-Business Idea 258,E-commerce,2.1,6.0,4.3,valid
-Business Idea 259,Logistics,5.3,6.9,1.4,valid
-Business Idea 260,Green Energy,8.6,2.8,7.1,valid
-Business Idea 261,Green Energy,8.3,5.5,6.5,invalid
-Business Idea 262,Green Energy,6.3,1.4,9.4,invalid
-Business Idea 263,Green Energy,1.7,5.7,5.3,valid
-Business Idea 264,AI/ML,2.4,7.9,3.6,valid
-Business Idea 265,Real Estate,5.2,9.5,3.8,valid
-Business Idea 266,FinTech,4.6,4.2,8.0,valid
-Business Idea 267,Real Estate,6.6,5.3,9.8,invalid
-Business Idea 268,EdTech,1.1,5.2,9.2,invalid
-Business Idea 269,Real Estate,8.1,1.0,4.2,valid
-Business Idea 270,Logistics,2.1,1.5,4.4,invalid
-Business Idea 271,HealthTech,4.0,5.0,9.7,invalid
-Business Idea 272,FinTech,7.6,1.7,7.0,valid
-Business Idea 273,EdTech,1.2,2.1,1.5,invalid
-Business Idea 274,E-commerce,6.8,5.6,5.0,valid
-Business Idea 275,FinTech,4.1,1.3,4.1,invalid
-Business Idea 276,Green Energy,1.3,2.9,5.6,invalid
-Business Idea 277,AI/ML,1.2,7.9,4.1,valid
-Business Idea 278,EdTech,3.3,4.9,6.2,valid
-Business Idea 279,EdTech,6.5,3.3,5.8,valid
-Business Idea 280,FinTech,6.9,3.7,8.7,invalid
-Business Idea 281,EdTech,8.6,3.3,2.8,invalid
-Business Idea 282,AI/ML,2.2,6.1,2.4,invalid
-Business Idea 283,Real Estate,8.4,6.7,8.8,valid
-Business Idea 284,AI/ML,8.2,6.7,5.4,invalid
-Business Idea 285,Green Energy,7.9,2.7,9.0,valid
-Business Idea 286,E-commerce,4.5,8.7,3.8,valid
-Business Idea 287,Green Energy,8.8,3.3,4.2,invalid
-Business Idea 288,FinTech,2.6,3.1,4.6,invalid
-Business Idea 289,FinTech,5.5,5.8,3.2,invalid
-Business Idea 290,FinTech,9.9,4.9,6.4,invalid
-Business Idea 291,AI/ML,6.9,4.4,3.5,invalid
-Business Idea 292,Logistics,1.7,6.8,8.6,valid
-Business Idea 293,AI/ML,8.3,9.2,7.8,invalid
-Business Idea 294,EdTech,2.4,4.7,1.5,invalid
-Business Idea 295,AI/ML,7.8,1.9,2.9,invalid
-Business Idea 296,EdTech,2.3,2.9,2.5,invalid
-Business Idea 297,E-commerce,9.6,5.3,7.2,invalid
-Business Idea 298,EdTech,8.5,1.7,5.2,invalid
-Business Idea 299,FinTech,3.1,4.1,2.8,valid
-Business Idea 300,FinTech,3.7,6.0,4.2,invalid
-Business Idea 301,AI/ML,8.0,2.2,2.8,invalid
-Business Idea 302,E-commerce,2.1,6.1,8.5,valid
-Business Idea 303,Green Energy,7.9,5.0,3.2,valid
-Business Idea 304,EdTech,9.1,1.3,1.1,invalid
-Business Idea 305,E-commerce,3.7,4.3,4.2,valid
-Business Idea 306,FinTech,6.8,4.8,6.7,valid
-Business Idea 307,Real Estate,6.0,1.7,8.9,invalid
-Business Idea 308,HealthTech,7.9,8.6,9.7,valid
-Business Idea 309,FinTech,7.3,4.8,7.7,valid
-Business Idea 310,AI/ML,1.7,9.7,2.6,valid
-Business Idea 311,FinTech,4.2,3.1,9.7,valid
-Business Idea 312,AI/ML,8.3,3.8,2.5,invalid
-Business Idea 313,FinTech,8.1,4.2,9.3,valid
-Business Idea 314,Real Estate,9.9,8.9,8.8,invalid
-Business Idea 315,Green Energy,4.8,8.5,6.7,valid
-Business Idea 316,EdTech,4.0,6.3,6.0,valid
-Business Idea 317,FinTech,2.0,5.8,6.2,valid
-Business Idea 318,Real Estate,3.8,3.6,1.0,invalid
-Business Idea 319,Logistics,1.5,8.7,8.7,invalid
-Business Idea 320,E-commerce,5.1,3.2,2.2,invalid
-Business Idea 321,EdTech,6.9,9.4,2.3,valid
-Business Idea 322,Green Energy,8.1,4.5,3.8,invalid
-Business Idea 323,E-commerce,3.7,7.7,7.2,invalid
-Business Idea 324,E-commerce,7.8,3.3,5.5,invalid
-Business Idea 325,AI/ML,8.4,2.5,6.9,invalid
-Business Idea 326,E-commerce,9.1,2.5,8.3,invalid
-Business Idea 327,Logistics,2.1,4.8,6.0,valid
-Business Idea 328,AI/ML,9.5,1.1,3.9,invalid
-Business Idea 329,EdTech,9.9,8.8,7.1,invalid
-Business Idea 330,HealthTech,3.5,4.6,4.8,invalid
-Business Idea 331,FinTech,3.2,7.6,8.3,invalid
-Business Idea 332,E-commerce,7.1,1.4,6.2,valid
-Business Idea 333,AI/ML,4.0,7.6,7.4,valid
-Business Idea 334,E-commerce,7.5,7.0,4.2,invalid
-Business Idea 335,Real Estate,2.8,3.5,2.0,valid
-Business Idea 336,Logistics,7.9,2.9,4.6,invalid
-Business Idea 337,AI/ML,7.8,1.2,8.9,invalid
-Business Idea 338,E-commerce,3.8,8.7,3.5,valid
-Business Idea 339,FinTech,7.6,8.6,6.5,valid
-Business Idea 340,E-commerce,5.9,10.0,6.5,valid
-Business Idea 341,AI/ML,9.0,3.9,1.2,valid
-Business Idea 342,EdTech,1.8,9.2,8.2,invalid
-Business Idea 343,Real Estate,5.2,6.2,6.0,invalid
-Business Idea 344,Real Estate,8.1,3.4,2.0,invalid
-Business Idea 345,E-commerce,4.5,9.7,7.5,invalid
-Business Idea 346,E-commerce,4.9,6.9,7.9,valid
-Business Idea 347,Green Energy,5.0,9.6,1.4,invalid
-Business Idea 348,E-commerce,2.9,7.9,2.3,invalid
-Business Idea 349,Real Estate,2.5,7.8,9.2,invalid
-Business Idea 350,AI/ML,1.6,5.6,2.7,invalid
-Business Idea 351,Real Estate,7.4,8.9,7.6,invalid
-Business Idea 352,Real Estate,9.7,7.1,1.8,valid
-Business Idea 353,Real Estate,2.3,8.9,7.0,valid
-Business Idea 354,HealthTech,6.3,3.1,2.0,invalid
-Business Idea 355,AI/ML,7.9,2.1,9.6,valid
-Business Idea 356,FinTech,6.1,8.6,7.4,invalid
-Business Idea 357,HealthTech,6.3,9.7,2.6,invalid
-Business Idea 358,Green Energy,8.8,5.7,4.2,valid
-Business Idea 359,HealthTech,5.4,3.5,5.1,valid
-Business Idea 360,Real Estate,8.0,1.3,5.6,valid
-Business Idea 361,HealthTech,1.7,5.2,3.3,invalid
-Business Idea 362,Green Energy,3.9,5.6,9.4,invalid
-Business Idea 363,AI/ML,4.9,9.3,9.7,invalid
-Business Idea 364,EdTech,6.1,5.4,3.8,invalid
-Business Idea 365,Logistics,6.6,7.5,3.5,valid
-Business Idea 366,EdTech,9.5,9.1,7.5,invalid
-Business Idea 367,Real Estate,9.4,5.8,5.8,valid
-Business Idea 368,HealthTech,5.9,9.2,7.1,valid
-Business Idea 369,AI/ML,5.2,9.1,8.6,valid
-Business Idea 370,EdTech,8.1,1.6,6.3,invalid
-Business Idea 371,EdTech,8.2,9.1,4.1,invalid
-Business Idea 372,EdTech,7.4,6.7,1.7,invalid
-Business Idea 373,FinTech,1.9,2.7,5.2,invalid
-Business Idea 374,Real Estate,1.6,1.5,2.8,invalid
-Business Idea 375,HealthTech,5.0,2.7,9.1,valid
-Business Idea 376,AI/ML,3.7,7.1,9.8,invalid
-Business Idea 377,E-commerce,8.4,8.5,1.6,invalid
-Business Idea 378,E-commerce,9.1,5.2,8.6,valid
-Business Idea 379,Logistics,2.1,3.6,9.3,valid
-Business Idea 380,AI/ML,9.9,1.8,8.7,invalid
-Business Idea 381,Green Energy,2.8,2.0,9.4,valid
-Business Idea 382,EdTech,9.5,2.6,1.6,valid
-Business Idea 383,Logistics,5.1,2.4,7.4,invalid
-Business Idea 384,Green Energy,2.3,1.6,5.8,valid
-Business Idea 385,FinTech,8.0,1.5,8.3,invalid
-Business Idea 386,FinTech,6.0,4.2,7.9,valid
-Business Idea 387,HealthTech,6.6,5.4,7.9,invalid
-Business Idea 388,Green Energy,9.2,8.9,6.4,valid
-Business Idea 389,AI/ML,8.3,1.7,5.7,valid
-Business Idea 390,FinTech,2.1,3.5,8.6,valid
-Business Idea 391,AI/ML,1.9,8.2,1.2,valid
-Business Idea 392,HealthTech,9.9,8.7,2.2,invalid
-Business Idea 393,Real Estate,7.8,2.3,9.7,invalid
-Business Idea 394,HealthTech,7.0,7.8,6.0,valid
-Business Idea 395,HealthTech,2.7,1.5,2.1,invalid
-Business Idea 396,Green Energy,1.3,6.4,6.7,valid
-Business Idea 397,Logistics,2.8,2.4,3.5,valid
-Business Idea 398,EdTech,7.3,5.6,7.9,invalid
-Business Idea 399,EdTech,7.2,2.6,3.2,invalid
-Business Idea 400,Logistics,4.8,6.9,4.0,valid
-Business Idea 401,EdTech,8.9,8.6,4.8,valid
-Business Idea 402,Real Estate,8.4,3.7,1.6,invalid
-Business Idea 403,Green Energy,2.4,4.1,9.8,invalid
-Business Idea 404,Logistics,9.8,1.1,8.2,valid
-Business Idea 405,HealthTech,7.7,1.6,9.4,valid
-Business Idea 406,AI/ML,9.7,2.0,7.4,invalid
-Business Idea 407,AI/ML,5.4,3.1,9.4,invalid
-Business Idea 408,FinTech,5.0,8.9,9.1,valid
-Business Idea 409,EdTech,8.5,5.7,8.4,invalid
-Business Idea 410,FinTech,6.3,4.3,5.4,valid
-Business Idea 411,Green Energy,5.9,8.3,7.8,invalid
-Business Idea 412,EdTech,4.6,1.4,6.8,valid
-Business Idea 413,Logistics,2.7,9.9,2.9,invalid
-Business Idea 414,AI/ML,6.9,8.5,2.9,valid
-Business Idea 415,AI/ML,3.0,3.4,3.5,invalid
-Business Idea 416,FinTech,5.5,6.0,10.0,invalid
-Business Idea 417,Green Energy,6.3,2.1,6.3,invalid
-Business Idea 418,FinTech,5.7,10.0,2.9,invalid
-Business Idea 419,Green Energy,5.3,6.4,8.2,invalid
-Business Idea 420,Green Energy,6.0,1.6,1.8,invalid
-Business Idea 421,FinTech,6.3,8.4,6.3,invalid
-Business Idea 422,Real Estate,3.4,7.0,3.1,invalid
-Business Idea 423,EdTech,3.9,4.0,2.5,invalid
-Business Idea 424,AI/ML,8.9,7.6,4.6,valid
-Business Idea 425,Logistics,3.4,1.1,2.7,valid
-Business Idea 426,HealthTech,9.9,4.8,4.4,valid
-Business Idea 427,Real Estate,5.7,5.0,1.8,valid
-Business Idea 428,E-commerce,4.1,9.9,5.1,valid
-Business Idea 429,Logistics,2.0,9.2,7.8,valid
-Business Idea 430,AI/ML,4.1,1.2,9.3,valid
-Business Idea 431,Real Estate,1.9,4.0,6.6,invalid
-Business Idea 432,Logistics,6.9,3.1,5.2,invalid
-Business Idea 433,EdTech,6.7,5.4,1.6,invalid
-Business Idea 434,EdTech,4.5,3.2,4.9,valid
-Business Idea 435,AI/ML,5.4,9.4,2.8,invalid
-Business Idea 436,Green Energy,5.0,7.3,7.6,valid
-Business Idea 437,AI/ML,3.9,5.2,6.3,valid
-Business Idea 438,E-commerce,3.5,7.9,4.0,valid
-Business Idea 439,HealthTech,2.0,4.8,3.9,valid
-Business Idea 440,AI/ML,5.3,7.6,10.0,invalid
-Business Idea 441,Green Energy,3.6,2.5,4.5,valid
-Business Idea 442,HealthTech,6.0,2.5,3.2,invalid
-Business Idea 443,EdTech,5.0,9.4,4.2,invalid
-Business Idea 444,Real Estate,1.5,5.1,2.6,valid
-Business Idea 445,Green Energy,4.7,3.8,5.3,valid
-Business Idea 446,Logistics,6.4,9.0,1.9,valid
-Business Idea 447,FinTech,7.8,8.7,6.2,valid
-Business Idea 448,HealthTech,3.8,6.9,6.8,valid
-Business Idea 449,AI/ML,5.3,1.9,7.1,valid
-Business Idea 450,EdTech,4.2,5.5,4.5,valid
-Business Idea 451,FinTech,7.3,7.3,1.9,valid
-Business Idea 452,E-commerce,4.8,4.1,4.8,invalid
-Business Idea 453,EdTech,8.1,6.7,2.1,invalid
-Business Idea 454,HealthTech,8.3,7.3,2.9,invalid
-Business Idea 455,FinTech,2.4,5.8,6.7,valid
-Business Idea 456,FinTech,9.1,6.0,5.3,invalid
-Business Idea 457,Green Energy,4.8,6.1,4.5,valid
-Business Idea 458,FinTech,7.6,8.2,5.0,valid
-Business Idea 459,Real Estate,9.2,2.2,3.8,invalid
-Business Idea 460,AI/ML,3.0,8.8,2.4,invalid
-Business Idea 461,Logistics,5.1,7.0,2.8,valid
-Business Idea 462,AI/ML,3.1,2.4,8.2,valid
-Business Idea 463,HealthTech,6.8,9.1,2.8,valid
-Business Idea 464,HealthTech,2.8,3.7,6.8,invalid
-Business Idea 465,E-commerce,8.9,2.8,4.3,valid
-Business Idea 466,Logistics,9.6,3.0,3.2,invalid
-Business Idea 467,Green Energy,6.7,7.1,9.1,valid
-Business Idea 468,Logistics,2.2,3.6,9.3,invalid
-Business Idea 469,Green Energy,1.8,7.5,8.1,valid
-Business Idea 470,Logistics,7.9,9.1,8.6,valid
-Business Idea 471,Logistics,9.5,1.9,10.0,invalid
-Business Idea 472,Logistics,3.3,7.7,2.6,invalid
-Business Idea 473,Green Energy,1.7,8.1,5.9,invalid
-Business Idea 474,HealthTech,2.5,9.2,5.2,valid
-Business Idea 475,Green Energy,5.2,9.9,7.0,invalid
-Business Idea 476,Logistics,4.1,4.9,7.4,valid
-Business Idea 477,Green Energy,7.3,1.2,2.1,invalid
-Business Idea 478,Green Energy,6.1,4.3,6.2,valid
-Business Idea 479,HealthTech,9.2,7.8,5.6,invalid
-Business Idea 480,EdTech,5.4,9.1,2.7,invalid
-Business Idea 481,FinTech,8.9,1.4,8.0,valid
-Business Idea 482,FinTech,3.1,5.0,3.2,valid
-Business Idea 483,Green Energy,7.8,2.3,5.3,valid
-Business Idea 484,FinTech,2.8,1.1,9.8,valid
-Business Idea 485,Real Estate,8.9,8.4,6.7,invalid
-Business Idea 486,Green Energy,1.9,2.5,5.0,valid
-Business Idea 487,AI/ML,5.0,3.4,6.3,valid
-Business Idea 488,E-commerce,4.3,5.8,7.2,invalid
-Business Idea 489,Logistics,5.0,2.0,6.5,invalid
-Business Idea 490,E-commerce,9.1,4.4,4.1,invalid
-Business Idea 491,EdTech,8.5,5.1,1.4,invalid
-Business Idea 492,HealthTech,2.3,4.4,3.6,valid
-Business Idea 493,E-commerce,6.2,7.3,6.3,invalid
-Business Idea 494,AI/ML,1.8,7.6,3.0,valid
-Business Idea 495,Green Energy,7.3,3.5,7.6,invalid
-Business Idea 496,Logistics,1.5,8.3,7.9,valid
-Business Idea 497,EdTech,2.0,5.9,3.2,invalid
-Business Idea 498,AI/ML,8.6,8.8,7.5,valid
-Business Idea 499,HealthTech,7.5,5.7,8.5,valid
-Business Idea 500,E-commerce,1.8,1.9,7.7,valid
-Business Idea 501,E-commerce,9.4,7.0,6.8,invalid
-Business Idea 502,Green Energy,4.7,8.7,5.3,invalid
-Business Idea 503,AI/ML,3.1,3.2,5.3,invalid
-Business Idea 504,AI/ML,4.3,8.3,4.7,invalid
-Business Idea 505,Real Estate,4.0,3.4,3.3,invalid
-Business Idea 506,HealthTech,2.8,2.0,2.1,valid
-Business Idea 507,E-commerce,8.8,8.7,6.9,invalid
-Business Idea 508,AI/ML,4.4,5.7,3.2,invalid
-Business Idea 509,E-commerce,2.2,9.4,6.6,invalid
-Business Idea 510,Logistics,2.5,3.1,8.2,invalid
-Business Idea 511,EdTech,5.9,9.1,6.8,invalid
-Business Idea 512,FinTech,1.2,5.7,9.8,invalid
-Business Idea 513,FinTech,3.7,3.2,2.4,valid
-Business Idea 514,Real Estate,4.3,9.7,8.4,invalid
-Business Idea 515,Real Estate,6.4,2.5,8.3,valid
-Business Idea 516,Logistics,6.5,1.6,5.5,valid
-Business Idea 517,Real Estate,1.3,2.1,9.9,valid
-Business Idea 518,AI/ML,2.4,9.6,2.7,invalid
-Business Idea 519,HealthTech,6.9,5.0,5.1,invalid
-Business Idea 520,AI/ML,2.4,2.5,7.8,invalid
-Business Idea 521,Green Energy,4.3,1.4,7.0,valid
-Business Idea 522,HealthTech,7.2,2.5,6.0,valid
-Business Idea 523,FinTech,8.9,4.9,1.6,valid
-Business Idea 524,E-commerce,6.4,4.5,6.8,valid
-Business Idea 525,HealthTech,1.9,2.7,3.6,valid
-Business Idea 526,Logistics,5.4,4.4,9.0,invalid
-Business Idea 527,Logistics,8.8,7.4,8.2,valid
-Business Idea 528,EdTech,4.3,4.2,2.9,invalid
-Business Idea 529,Logistics,6.2,4.2,9.3,valid
-Business Idea 530,E-commerce,6.1,2.0,1.3,invalid
-Business Idea 531,FinTech,6.4,6.9,7.2,invalid
-Business Idea 532,HealthTech,3.7,3.1,1.8,invalid
-Business Idea 533,AI/ML,8.9,8.2,4.4,invalid
-Business Idea 534,Real Estate,8.4,3.8,7.4,invalid
-Business Idea 535,EdTech,7.7,6.1,5.3,invalid
-Business Idea 536,AI/ML,4.4,7.2,1.7,valid
-Business Idea 537,HealthTech,8.3,4.6,4.4,invalid
-Business Idea 538,Logistics,7.9,2.2,4.9,invalid
-Business Idea 539,AI/ML,7.0,9.1,9.6,invalid
-Business Idea 540,Green Energy,4.4,6.3,3.1,valid
-Business Idea 541,EdTech,5.3,3.8,9.2,valid
-Business Idea 542,E-commerce,9.4,1.2,8.8,invalid
-Business Idea 543,Logistics,2.3,9.0,6.9,valid
-Business Idea 544,AI/ML,4.5,7.0,5.1,valid
-Business Idea 545,Logistics,2.8,7.0,7.0,valid
-Business Idea 546,Logistics,6.4,9.9,4.9,invalid
-Business Idea 547,E-commerce,3.5,7.9,5.5,valid
-Business Idea 548,EdTech,2.6,4.9,6.8,invalid
-Business Idea 549,HealthTech,7.1,1.8,8.5,invalid
-Business Idea 550,Green Energy,9.0,4.8,6.9,valid
-Business Idea 551,AI/ML,6.5,8.8,4.7,invalid
-Business Idea 552,Real Estate,8.8,1.7,1.6,valid
-Business Idea 553,AI/ML,3.7,8.8,4.1,invalid
-Business Idea 554,FinTech,5.9,8.0,2.3,valid
-Business Idea 555,EdTech,8.4,7.0,3.6,valid
-Business Idea 556,EdTech,3.1,6.2,4.4,valid
-Business Idea 557,E-commerce,9.5,1.1,4.2,invalid
-Business Idea 558,FinTech,3.9,1.8,7.9,invalid
-Business Idea 559,Real Estate,6.6,2.1,9.6,invalid
-Business Idea 560,AI/ML,9.2,5.6,4.1,valid
-Business Idea 561,Real Estate,3.6,6.1,5.9,valid
-Business Idea 562,AI/ML,3.7,1.4,1.8,invalid
-Business Idea 563,Green Energy,5.3,5.9,2.1,invalid
-Business Idea 564,Green Energy,6.3,1.3,7.5,invalid
-Business Idea 565,EdTech,5.8,9.8,4.8,invalid
-Business Idea 566,AI/ML,9.0,4.5,3.8,invalid
-Business Idea 567,FinTech,7.4,9.6,7.3,invalid
-Business Idea 568,Real Estate,9.1,6.5,7.8,valid
-Business Idea 569,EdTech,7.3,1.2,6.4,invalid
-Business Idea 570,EdTech,7.7,2.9,7.3,valid
-Business Idea 571,Logistics,6.4,7.7,6.9,invalid
-Business Idea 572,Real Estate,3.8,7.1,9.6,invalid
-Business Idea 573,EdTech,7.0,9.1,6.5,valid
-Business Idea 574,EdTech,8.9,3.9,4.0,valid
-Business Idea 575,FinTech,2.1,7.9,6.8,valid
-Business Idea 576,AI/ML,1.6,9.9,3.2,valid
-Business Idea 577,Logistics,9.3,4.9,9.3,valid
-Business Idea 578,HealthTech,6.6,9.4,7.8,valid
-Business Idea 579,FinTech,4.4,7.7,3.4,invalid
-Business Idea 580,Green Energy,6.0,2.5,6.4,invalid
-Business Idea 581,Real Estate,3.4,8.4,5.3,invalid
-Business Idea 582,Green Energy,5.4,7.6,1.2,invalid
-Business Idea 583,Real Estate,2.6,3.9,2.2,invalid
-Business Idea 584,FinTech,6.6,3.2,7.8,invalid
-Business Idea 585,Logistics,7.3,6.8,5.4,invalid
-Business Idea 586,Logistics,2.0,2.3,8.5,valid
-Business Idea 587,HealthTech,3.5,5.6,8.1,valid
-Business Idea 588,AI/ML,1.6,8.1,7.3,valid
-Business Idea 589,FinTech,9.2,4.5,4.8,valid
-Business Idea 590,EdTech,5.8,1.1,4.5,valid
-Business Idea 591,Real Estate,5.4,1.4,4.9,valid
-Business Idea 592,EdTech,5.0,3.7,3.7,invalid
-Business Idea 593,HealthTech,6.5,1.5,6.0,valid
-Business Idea 594,Real Estate,1.9,6.4,4.4,invalid
-Business Idea 595,HealthTech,7.9,3.6,5.8,invalid
-Business Idea 596,FinTech,6.1,6.0,9.2,valid
-Business Idea 597,Logistics,4.1,5.0,6.8,invalid
-Business Idea 598,Green Energy,9.5,5.2,8.5,invalid
-Business Idea 599,AI/ML,7.8,1.7,2.9,invalid
-Business Idea 600,EdTech,7.1,3.5,2.3,valid
-Business Idea 601,Logistics,2.8,8.9,9.2,invalid
-Business Idea 602,HealthTech,7.2,4.6,1.0,invalid
-Business Idea 603,AI/ML,7.0,8.1,7.5,invalid
-Business Idea 604,HealthTech,8.3,1.6,3.2,invalid
-Business Idea 605,AI/ML,1.5,5.1,3.3,valid
-Business Idea 606,AI/ML,9.0,5.4,1.1,invalid
-Business Idea 607,Logistics,1.0,9.5,9.8,invalid
-Business Idea 608,Green Energy,6.5,6.1,2.4,valid
-Business Idea 609,HealthTech,2.2,6.4,1.1,valid
-Business Idea 610,AI/ML,3.1,6.6,8.3,valid
-Business Idea 611,HealthTech,3.5,7.0,3.6,invalid
-Business Idea 612,FinTech,7.6,7.5,8.0,invalid
-Business Idea 613,AI/ML,8.6,9.2,7.9,valid
-Business Idea 614,Green Energy,8.3,9.0,2.4,valid
-Business Idea 615,Green Energy,9.5,5.9,4.8,valid
-Business Idea 616,Green Energy,7.0,4.4,3.1,invalid
-Business Idea 617,E-commerce,7.2,4.3,10.0,invalid
-Business Idea 618,Logistics,1.2,7.0,4.2,invalid
-Business Idea 619,AI/ML,1.3,6.8,7.2,invalid
-Business Idea 620,Green Energy,7.0,9.9,2.8,invalid
-Business Idea 621,Logistics,3.6,7.1,7.8,invalid
-Business Idea 622,FinTech,1.1,5.1,1.6,valid
-Business Idea 623,FinTech,3.3,6.8,4.3,valid
-Business Idea 624,AI/ML,5.9,6.0,1.7,invalid
-Business Idea 625,FinTech,1.9,1.4,4.4,invalid
-Business Idea 626,EdTech,5.3,6.1,1.9,valid
-Business Idea 627,FinTech,2.6,2.5,1.5,valid
-Business Idea 628,Real Estate,3.7,6.3,4.8,invalid
-Business Idea 629,Real Estate,8.9,3.7,2.1,valid
-Business Idea 630,FinTech,4.9,8.1,3.7,invalid
-Business Idea 631,Real Estate,9.5,9.5,1.1,valid
-Business Idea 632,E-commerce,2.3,1.8,7.4,valid
-Business Idea 633,HealthTech,9.4,9.1,7.0,valid
-Business Idea 634,Logistics,3.3,1.4,7.1,valid
-Business Idea 635,AI/ML,5.3,8.7,7.0,valid
-Business Idea 636,Green Energy,3.4,2.9,4.3,invalid
-Business Idea 637,Logistics,1.8,2.9,2.1,valid
-Business Idea 638,E-commerce,6.9,8.2,8.0,valid
-Business Idea 639,FinTech,4.3,8.1,3.2,invalid
-Business Idea 640,EdTech,9.9,1.1,2.9,valid
-Business Idea 641,E-commerce,2.7,3.5,1.4,invalid
-Business Idea 642,Real Estate,6.0,5.2,7.7,invalid
-Business Idea 643,Logistics,9.1,3.6,9.4,invalid
-Business Idea 644,HealthTech,5.9,8.6,9.9,invalid
-Business Idea 645,Logistics,2.3,9.5,3.5,valid
-Business Idea 646,HealthTech,4.6,10.0,5.3,invalid
-Business Idea 647,Logistics,5.0,5.0,6.3,valid
-Business Idea 648,Green Energy,3.5,6.6,4.5,valid
-Business Idea 649,Logistics,1.9,7.6,8.8,invalid
-Business Idea 650,FinTech,8.6,5.7,6.3,valid
-Business Idea 651,E-commerce,9.5,9.5,4.7,invalid
-Business Idea 652,Logistics,6.6,6.9,5.7,invalid
-Business Idea 653,E-commerce,4.1,5.6,1.9,invalid
-Business Idea 654,AI/ML,8.0,9.1,9.8,valid
-Business Idea 655,Real Estate,7.7,6.8,8.7,valid
-Business Idea 656,HealthTech,7.3,1.7,5.2,invalid
-Business Idea 657,AI/ML,2.8,9.4,10.0,invalid
-Business Idea 658,Real Estate,9.5,7.0,3.7,invalid
-Business Idea 659,AI/ML,6.1,8.6,9.3,invalid
-Business Idea 660,Green Energy,9.6,1.1,6.7,valid
-Business Idea 661,HealthTech,7.8,7.3,3.6,invalid
-Business Idea 662,Logistics,1.7,3.9,2.4,valid
-Business Idea 663,HealthTech,1.0,7.5,7.5,invalid
-Business Idea 664,AI/ML,8.7,4.8,4.6,invalid
-Business Idea 665,E-commerce,5.4,5.3,5.1,invalid
-Business Idea 666,Real Estate,1.4,8.8,1.9,invalid
-Business Idea 667,Logistics,6.3,7.1,7.1,invalid
-Business Idea 668,AI/ML,3.9,5.4,5.4,valid
-Business Idea 669,AI/ML,3.9,9.1,7.5,valid
-Business Idea 670,Logistics,5.7,7.7,3.6,invalid
-Business Idea 671,Real Estate,7.1,3.6,5.4,valid
-Business Idea 672,E-commerce,2.2,7.1,5.6,invalid
-Business Idea 673,FinTech,7.5,4.0,9.4,invalid
-Business Idea 674,AI/ML,3.6,7.3,7.2,invalid
-Business Idea 675,E-commerce,1.6,2.3,2.3,invalid
-Business Idea 676,HealthTech,6.8,5.8,5.5,invalid
-Business Idea 677,Logistics,8.5,3.2,5.4,invalid
-Business Idea 678,FinTech,8.1,7.9,6.2,invalid
-Business Idea 679,EdTech,8.7,9.4,9.3,valid
-Business Idea 680,AI/ML,5.9,3.8,3.9,valid
-Business Idea 681,Logistics,1.8,7.7,5.4,invalid
-Business Idea 682,EdTech,1.2,1.7,2.7,valid
-Business Idea 683,Real Estate,1.1,3.4,2.7,invalid
-Business Idea 684,EdTech,6.4,9.9,1.4,valid
-Business Idea 685,AI/ML,9.8,4.6,5.2,valid
-Business Idea 686,Green Energy,3.7,3.2,5.6,invalid
-Business Idea 687,Real Estate,9.1,5.0,1.1,valid
-Business Idea 688,HealthTech,7.1,1.2,2.4,invalid
-Business Idea 689,EdTech,8.2,6.9,2.4,valid
-Business Idea 690,E-commerce,7.5,8.7,8.5,valid
-Business Idea 691,AI/ML,3.0,4.6,4.7,invalid
-Business Idea 692,EdTech,2.2,5.1,1.2,invalid
-Business Idea 693,EdTech,6.8,9.7,1.6,valid
-Business Idea 694,EdTech,2.7,8.4,6.5,invalid
-Business Idea 695,HealthTech,4.4,2.1,9.3,valid
-Business Idea 696,HealthTech,7.0,5.9,2.7,invalid
-Business Idea 697,AI/ML,5.5,1.3,9.7,valid
-Business Idea 698,HealthTech,4.0,6.9,8.0,invalid
-Business Idea 699,EdTech,7.0,6.2,9.3,valid
-Business Idea 700,Real Estate,3.1,5.2,6.1,invalid
-Business Idea 701,E-commerce,3.9,2.8,7.4,invalid
-Business Idea 702,FinTech,1.7,9.3,8.2,invalid
-Business Idea 703,HealthTech,6.0,8.7,4.4,invalid
-Business Idea 704,FinTech,9.7,5.7,1.8,invalid
-Business Idea 705,Green Energy,2.0,7.5,5.4,valid
-Business Idea 706,HealthTech,8.5,4.0,9.3,valid
-Business Idea 707,Logistics,4.9,6.4,1.8,invalid
-Business Idea 708,Real Estate,7.8,2.1,9.0,valid
-Business Idea 709,FinTech,2.5,3.6,1.2,invalid
-Business Idea 710,Logistics,9.7,8.0,3.4,invalid
-Business Idea 711,Logistics,8.9,9.2,8.7,valid
-Business Idea 712,HealthTech,3.8,4.9,3.8,valid
-Business Idea 713,HealthTech,6.7,3.3,5.6,invalid
-Business Idea 714,AI/ML,8.4,9.8,2.2,invalid
-Business Idea 715,AI/ML,7.4,4.0,9.9,invalid
-Business Idea 716,AI/ML,3.5,5.7,2.3,invalid
-Business Idea 717,Real Estate,1.6,9.7,2.7,valid
-Business Idea 718,FinTech,5.0,6.1,4.2,valid
-Business Idea 719,AI/ML,3.7,5.3,8.0,valid
-Business Idea 720,AI/ML,9.0,4.9,2.1,invalid
-Business Idea 721,Logistics,9.5,5.1,3.3,valid
-Business Idea 722,AI/ML,5.9,1.9,6.5,invalid
-Business Idea 723,EdTech,5.5,8.6,9.5,invalid
-Business Idea 724,EdTech,9.0,8.5,3.9,invalid
-Business Idea 725,AI/ML,7.7,7.2,3.8,invalid
-Business Idea 726,Green Energy,3.1,5.5,3.4,valid
-Business Idea 727,E-commerce,1.2,8.6,5.3,valid
-Business Idea 728,Logistics,5.1,9.9,9.2,valid
-Business Idea 729,E-commerce,4.2,7.6,7.5,valid
-Business Idea 730,AI/ML,2.8,8.7,4.4,invalid
-Business Idea 731,Logistics,4.2,4.5,3.3,invalid
-Business Idea 732,EdTech,9.9,3.2,7.5,valid
-Business Idea 733,Real Estate,1.0,9.8,4.1,invalid
-Business Idea 734,E-commerce,6.7,5.2,5.3,valid
-Business Idea 735,FinTech,5.6,2.5,9.1,valid
-Business Idea 736,FinTech,9.4,4.4,9.1,valid
-Business Idea 737,E-commerce,3.1,7.9,5.1,valid
-Business Idea 738,Real Estate,5.6,6.8,3.7,invalid
-Business Idea 739,HealthTech,8.8,7.9,3.1,valid
-Business Idea 740,E-commerce,5.6,3.4,9.4,valid
-Business Idea 741,HealthTech,8.3,4.4,7.0,valid
-Business Idea 742,EdTech,2.3,7.6,6.4,invalid
-Business Idea 743,Logistics,3.5,7.7,9.1,valid
-Business Idea 744,EdTech,5.3,6.3,2.9,invalid
-Business Idea 745,FinTech,8.1,2.9,4.8,valid
-Business Idea 746,Green Energy,2.5,6.0,2.5,invalid
-Business Idea 747,Logistics,6.6,7.7,8.3,invalid
-Business Idea 748,HealthTech,5.5,4.2,4.2,valid
-Business Idea 749,EdTech,8.6,7.0,2.0,valid
-Business Idea 750,AI/ML,3.4,6.9,7.2,valid
-Business Idea 751,EdTech,3.2,2.5,3.4,valid
-Business Idea 752,EdTech,4.9,4.9,2.2,valid
-Business Idea 753,Logistics,3.8,3.1,1.2,invalid
-Business Idea 754,Real Estate,4.9,3.8,2.3,invalid
-Business Idea 755,EdTech,2.9,2.1,8.2,invalid
-Business Idea 756,FinTech,4.9,9.0,1.6,invalid
-Business Idea 757,E-commerce,4.0,4.8,2.0,valid
-Business Idea 758,Green Energy,7.9,1.6,6.0,invalid
-Business Idea 759,EdTech,3.7,2.3,4.7,invalid
-Business Idea 760,Green Energy,5.2,7.5,8.8,invalid
-Business Idea 761,Green Energy,8.7,8.2,7.1,invalid
-Business Idea 762,E-commerce,5.7,3.6,1.1,valid
-Business Idea 763,EdTech,6.3,8.2,1.1,invalid
-Business Idea 764,FinTech,6.6,2.8,4.6,valid
-Business Idea 765,Green Energy,4.2,6.2,4.9,valid
-Business Idea 766,FinTech,1.8,8.6,9.3,valid
-Business Idea 767,E-commerce,9.7,7.8,2.7,invalid
-Business Idea 768,E-commerce,6.7,1.1,6.7,invalid
-Business Idea 769,FinTech,8.0,4.7,2.8,invalid
-Business Idea 770,Real Estate,3.2,9.8,5.2,invalid
-Business Idea 771,Green Energy,3.1,8.2,5.0,invalid
-Business Idea 772,Logistics,7.5,7.1,1.7,invalid
-Business Idea 773,EdTech,2.7,5.7,4.8,invalid
-Business Idea 774,Real Estate,7.4,3.4,4.2,valid
-Business Idea 775,E-commerce,8.3,3.2,6.5,invalid
-Business Idea 776,Logistics,5.5,8.4,7.1,invalid
-Business Idea 777,AI/ML,6.2,8.0,7.3,invalid
-Business Idea 778,HealthTech,8.1,9.2,2.3,invalid
-Business Idea 779,AI/ML,2.7,2.7,3.9,invalid
-Business Idea 780,HealthTech,8.8,7.3,3.1,valid
-Business Idea 781,Green Energy,9.8,5.1,3.4,invalid
-Business Idea 782,AI/ML,9.5,6.4,2.0,valid
-Business Idea 783,EdTech,3.2,2.0,7.7,valid
-Business Idea 784,Green Energy,2.0,4.7,5.9,invalid
-Business Idea 785,AI/ML,3.3,9.1,3.0,valid
-Business Idea 786,HealthTech,9.5,6.4,5.7,valid
-Business Idea 787,FinTech,1.8,3.8,9.2,invalid
-Business Idea 788,AI/ML,5.6,5.4,4.6,invalid
-Business Idea 789,AI/ML,8.3,4.3,1.5,invalid
-Business Idea 790,EdTech,7.7,4.4,6.0,invalid
-Business Idea 791,FinTech,2.5,2.7,7.6,invalid
-Business Idea 792,Green Energy,6.3,1.4,2.9,valid
-Business Idea 793,AI/ML,7.4,2.6,3.2,valid
-Business Idea 794,Real Estate,7.6,9.6,2.3,valid
-Business Idea 795,Green Energy,9.3,2.9,5.8,invalid
-Business Idea 796,Real Estate,7.7,2.6,5.7,invalid
-Business Idea 797,Real Estate,3.7,1.6,8.2,invalid
-Business Idea 798,E-commerce,1.6,7.0,7.5,valid
-Business Idea 799,E-commerce,2.0,8.6,5.7,invalid
-Business Idea 800,EdTech,7.3,3.8,1.1,invalid
-Business Idea 801,FinTech,3.9,6.1,6.6,invalid
-Business Idea 802,EdTech,2.0,5.5,3.7,valid
-Business Idea 803,FinTech,1.7,5.1,2.0,valid
-Business Idea 804,FinTech,3.5,8.2,3.8,valid
-Business Idea 805,EdTech,7.0,6.9,3.4,valid
-Business Idea 806,E-commerce,4.3,5.1,8.6,valid
-Business Idea 807,FinTech,5.9,5.3,6.7,valid
-Business Idea 808,Green Energy,1.8,2.5,5.9,valid
-Business Idea 809,EdTech,6.1,9.4,5.7,valid
-Business Idea 810,EdTech,3.2,2.4,1.9,valid
-Business Idea 811,EdTech,7.9,5.6,5.7,invalid
-Business Idea 812,E-commerce,10.0,3.7,6.0,valid
-Business Idea 813,FinTech,4.3,6.4,3.9,invalid
-Business Idea 814,Green Energy,8.4,1.1,4.5,invalid
-Business Idea 815,AI/ML,8.7,5.7,6.1,valid
-Business Idea 816,EdTech,1.7,5.1,7.3,invalid
-Business Idea 817,Green Energy,9.3,2.9,8.9,valid
-Business Idea 818,AI/ML,1.3,6.0,9.4,valid
-Business Idea 819,AI/ML,5.0,7.9,7.2,invalid
-Business Idea 820,EdTech,4.4,7.8,9.2,valid
-Business Idea 821,Real Estate,4.5,4.2,2.8,invalid
-Business Idea 822,Green Energy,1.6,2.0,7.9,invalid
-Business Idea 823,E-commerce,9.7,4.0,2.3,invalid
-Business Idea 824,FinTech,5.6,9.8,5.1,invalid
-Business Idea 825,HealthTech,8.3,8.7,3.0,invalid
-Business Idea 826,FinTech,7.5,2.1,7.4,valid
-Business Idea 827,Logistics,7.9,6.9,4.3,invalid
-Business Idea 828,FinTech,4.7,9.6,6.5,invalid
-Business Idea 829,Green Energy,1.9,4.7,4.6,invalid
-Business Idea 830,FinTech,8.8,3.6,4.5,valid
-Business Idea 831,FinTech,3.3,9.6,8.7,valid
-Business Idea 832,AI/ML,9.3,4.5,7.6,invalid
-Business Idea 833,AI/ML,8.2,4.6,9.9,invalid
-Business Idea 834,Real Estate,2.5,6.2,1.1,valid
-Business Idea 835,Real Estate,4.9,5.2,7.7,valid
-Business Idea 836,E-commerce,4.7,4.1,6.9,invalid
-Business Idea 837,AI/ML,8.3,5.8,6.1,invalid
-Business Idea 838,EdTech,5.4,5.2,8.0,invalid
-Business Idea 839,EdTech,5.1,1.4,7.7,valid
-Business Idea 840,EdTech,1.3,9.5,9.7,valid
-Business Idea 841,FinTech,2.1,3.0,4.3,invalid
-Business Idea 842,AI/ML,1.4,7.1,5.4,invalid
-Business Idea 843,AI/ML,9.6,1.2,9.5,invalid
-Business Idea 844,E-commerce,8.7,4.5,5.0,invalid
-Business Idea 845,Logistics,1.7,2.3,2.6,valid
-Business Idea 846,E-commerce,8.4,6.8,9.2,valid
-Business Idea 847,AI/ML,2.0,7.7,4.3,valid
-Business Idea 848,Real Estate,3.8,3.1,6.3,valid
-Business Idea 849,HealthTech,4.0,6.9,9.1,invalid
-Business Idea 850,Green Energy,8.9,8.0,1.7,invalid
-Business Idea 851,Green Energy,8.7,2.6,7.4,invalid
-Business Idea 852,EdTech,6.9,5.0,8.0,invalid
-Business Idea 853,Green Energy,3.2,2.0,6.1,valid
-Business Idea 854,Green Energy,7.3,1.1,8.5,invalid
-Business Idea 855,E-commerce,9.8,3.3,9.2,invalid
-Business Idea 856,Green Energy,8.7,1.8,1.6,valid
-Business Idea 857,Logistics,1.1,1.4,3.4,invalid
-Business Idea 858,Real Estate,4.0,4.2,3.3,valid
-Business Idea 859,Green Energy,7.2,10.0,1.3,valid
-Business Idea 860,AI/ML,1.9,7.9,4.9,invalid
-Business Idea 861,Logistics,6.7,5.4,1.5,invalid
-Business Idea 862,Green Energy,5.5,5.7,9.8,valid
-Business Idea 863,AI/ML,5.1,4.2,1.5,invalid
-Business Idea 864,AI/ML,9.0,7.7,3.3,invalid
-Business Idea 865,E-commerce,4.3,5.6,2.2,valid
-Business Idea 866,Real Estate,1.3,7.5,7.4,valid
-Business Idea 867,Real Estate,4.1,8.5,9.5,invalid
-Business Idea 868,Green Energy,4.7,4.7,8.7,valid
-Business Idea 869,FinTech,8.7,3.8,2.1,valid
-Business Idea 870,Green Energy,4.3,9.9,7.2,invalid
-Business Idea 871,HealthTech,2.6,7.4,2.8,invalid
-Business Idea 872,E-commerce,7.2,2.8,6.0,invalid
-Business Idea 873,HealthTech,5.2,1.8,5.6,invalid
-Business Idea 874,Logistics,4.7,9.6,8.8,valid
-Business Idea 875,Green Energy,7.1,1.3,3.3,valid
-Business Idea 876,Logistics,3.0,3.6,9.3,valid
-Business Idea 877,AI/ML,6.2,1.8,3.5,invalid
-Business Idea 878,Real Estate,8.4,2.5,9.1,invalid
-Business Idea 879,Green Energy,2.0,6.0,7.2,valid
-Business Idea 880,HealthTech,9.2,4.9,6.7,invalid
-Business Idea 881,Real Estate,3.0,5.1,3.4,invalid
-Business Idea 882,FinTech,7.2,9.5,1.5,valid
-Business Idea 883,FinTech,5.8,7.4,5.6,invalid
-Business Idea 884,FinTech,9.3,6.1,2.3,invalid
-Business Idea 885,Green Energy,3.4,1.3,7.1,valid
-Business Idea 886,AI/ML,3.4,5.5,9.0,valid
-Business Idea 887,HealthTech,8.9,1.1,3.6,valid
-Business Idea 888,HealthTech,7.6,8.1,1.2,invalid
-Business Idea 889,EdTech,3.6,1.8,6.8,invalid
-Business Idea 890,HealthTech,4.6,2.6,4.4,invalid
-Business Idea 891,Green Energy,2.7,2.5,6.0,invalid
-Business Idea 892,Green Energy,4.3,7.1,8.3,valid
-Business Idea 893,HealthTech,4.5,3.6,4.4,invalid
-Business Idea 894,Real Estate,5.5,8.8,8.4,invalid
-Business Idea 895,Green Energy,4.0,8.7,1.9,valid
-Business Idea 896,HealthTech,9.7,9.2,7.4,valid
-Business Idea 897,EdTech,6.2,1.3,2.0,invalid
-Business Idea 898,FinTech,7.1,1.0,6.3,valid
-Business Idea 899,Logistics,3.0,2.1,4.5,valid
-Business Idea 900,E-commerce,2.9,9.8,3.4,valid
-Business Idea 901,Green Energy,3.2,5.1,1.8,valid
-Business Idea 902,E-commerce,4.9,9.4,7.6,invalid
-Business Idea 903,HealthTech,9.5,5.3,3.3,valid
-Business Idea 904,AI/ML,5.5,2.0,4.3,invalid
-Business Idea 905,FinTech,2.3,3.2,8.0,valid
-Business Idea 906,HealthTech,8.1,5.5,5.3,valid
-Business Idea 907,E-commerce,5.7,5.9,6.5,valid
-Business Idea 908,Logistics,9.5,5.0,9.3,valid
-Business Idea 909,Green Energy,4.0,6.7,7.9,invalid
-Business Idea 910,Green Energy,1.4,1.1,2.1,valid
-Business Idea 911,E-commerce,7.9,1.8,7.6,invalid
-Business Idea 912,FinTech,8.9,4.4,1.3,invalid
-Business Idea 913,HealthTech,8.5,8.6,4.9,valid
-Business Idea 914,AI/ML,9.3,3.1,8.4,valid
-Business Idea 915,E-commerce,4.0,2.4,4.1,valid
-Business Idea 916,FinTech,2.8,4.5,2.2,invalid
-Business Idea 917,Green Energy,4.5,7.1,1.9,valid
-Business Idea 918,HealthTech,2.9,9.7,5.1,valid
-Business Idea 919,HealthTech,1.9,3.9,6.3,invalid
-Business Idea 920,EdTech,8.1,2.3,7.6,invalid
-Business Idea 921,Real Estate,8.8,1.2,9.5,invalid
-Business Idea 922,Real Estate,1.2,6.2,3.4,invalid
-Business Idea 923,Logistics,6.2,9.8,1.3,invalid
-Business Idea 924,Real Estate,3.8,8.8,9.6,invalid
-Business Idea 925,HealthTech,8.4,1.9,3.5,invalid
-Business Idea 926,Real Estate,9.6,8.7,1.2,valid
-Business Idea 927,EdTech,4.0,8.4,2.7,invalid
-Business Idea 928,Logistics,2.3,6.8,3.7,invalid
-Business Idea 929,Real Estate,7.5,3.9,8.6,valid
-Business Idea 930,Logistics,5.5,4.8,3.2,valid
-Business Idea 931,E-commerce,6.8,1.5,1.4,invalid
-Business Idea 932,FinTech,6.3,7.4,8.0,valid
-Business Idea 933,AI/ML,8.8,4.7,1.7,valid
-Business Idea 934,EdTech,1.0,2.2,2.3,invalid
-Business Idea 935,Green Energy,9.7,2.2,1.1,invalid
-Business Idea 936,Logistics,6.9,6.7,9.6,invalid
-Business Idea 937,Real Estate,3.9,3.3,2.1,valid
-Business Idea 938,AI/ML,3.7,1.4,3.8,invalid
-Business Idea 939,Real Estate,10.0,9.9,4.6,invalid
-Business Idea 940,AI/ML,2.1,8.8,9.5,valid
-Business Idea 941,Logistics,3.6,5.0,9.6,invalid
-Business Idea 942,FinTech,1.8,3.8,7.3,invalid
-Business Idea 943,Logistics,10.0,8.8,6.2,valid
-Business Idea 944,EdTech,7.5,4.2,6.3,invalid
-Business Idea 945,AI/ML,1.4,8.4,9.9,valid
-Business Idea 946,E-commerce,7.5,3.4,8.6,valid
-Business Idea 947,E-commerce,9.8,1.9,8.2,valid
-Business Idea 948,AI/ML,3.4,7.2,4.0,invalid
-Business Idea 949,FinTech,8.3,4.5,7.7,valid
-Business Idea 950,AI/ML,8.1,7.9,7.2,invalid
-Business Idea 951,HealthTech,8.9,8.2,4.9,valid
-Business Idea 952,Real Estate,9.3,2.0,4.8,invalid
-Business Idea 953,AI/ML,5.7,4.2,6.5,valid
-Business Idea 954,Green Energy,3.1,3.8,2.2,valid
-Business Idea 955,Logistics,1.3,7.8,7.2,invalid
-Business Idea 956,Real Estate,8.9,5.1,2.1,valid
-Business Idea 957,HealthTech,3.5,8.7,7.7,invalid
-Business Idea 958,FinTech,7.8,5.5,6.0,invalid
-Business Idea 959,E-commerce,2.3,1.3,2.7,invalid
-Business Idea 960,Green Energy,3.2,6.6,8.0,valid
-Business Idea 961,Real Estate,4.7,1.4,2.4,valid
-Business Idea 962,FinTech,5.2,3.3,9.5,invalid
-Business Idea 963,Real Estate,2.3,9.2,9.0,invalid
-Business Idea 964,AI/ML,3.3,8.1,2.7,invalid
-Business Idea 965,Green Energy,9.3,4.8,9.2,valid
-Business Idea 966,HealthTech,8.4,6.5,9.9,valid
-Business Idea 967,Green Energy,2.4,10.0,7.2,invalid
-Business Idea 968,AI/ML,5.2,8.7,9.7,invalid
-Business Idea 969,Logistics,8.1,6.9,1.0,valid
-Business Idea 970,E-commerce,6.8,7.1,2.6,invalid
-Business Idea 971,AI/ML,8.9,4.3,8.0,invalid
-Business Idea 972,FinTech,4.8,7.2,3.3,invalid
-Business Idea 973,HealthTech,3.9,9.2,8.4,valid
-Business Idea 974,Logistics,6.3,7.4,8.4,invalid
-Business Idea 975,AI/ML,3.2,6.8,8.1,invalid
-Business Idea 976,Logistics,5.1,6.7,3.2,invalid
-Business Idea 977,Green Energy,1.2,10.0,4.5,invalid
-Business Idea 978,E-commerce,3.1,2.0,6.7,invalid
-Business Idea 979,E-commerce,6.2,5.1,1.3,valid
-Business Idea 980,HealthTech,6.9,7.8,2.3,valid
-Business Idea 981,Logistics,5.9,1.2,3.6,invalid
-Business Idea 982,Green Energy,5.0,5.0,8.9,valid
-Business Idea 983,FinTech,7.9,6.3,8.1,valid
-Business Idea 984,Green Energy,9.3,2.8,2.5,valid
-Business Idea 985,Logistics,5.9,5.5,1.4,invalid
-Business Idea 986,Green Energy,6.9,9.6,1.7,invalid
-Business Idea 987,EdTech,4.1,3.2,8.7,valid
-Business Idea 988,HealthTech,1.5,2.2,3.8,invalid
-Business Idea 989,Green Energy,7.0,6.9,6.9,valid
-Business Idea 990,Logistics,6.6,7.8,2.3,invalid
-Business Idea 991,FinTech,8.4,6.5,2.1,valid
-Business Idea 992,Logistics,4.3,6.4,7.3,valid
-Business Idea 993,Green Energy,6.6,5.1,3.2,invalid
-Business Idea 994,FinTech,7.1,6.4,8.2,invalid
-Business Idea 995,E-commerce,7.4,8.1,2.4,invalid
-Business Idea 996,Green Energy,4.2,9.4,5.2,invalid
-Business Idea 997,HealthTech,8.0,3.5,5.1,valid
-Business Idea 998,FinTech,2.0,1.1,5.6,valid
-Business Idea 999,Real Estate,2.0,3.9,2.1,valid
-Business Idea 1000,FinTech,1.7,4.8,7.2,valid
+idea_text,label
+A subscription service for plastic bags filled with air.,invalid
+A business selling square balls to ghosts.,invalid
+An online marketplace connecting remote workers with local farmers.,valid
+A business selling square balls to pets.,invalid
+A subscription service for used tissues.,invalid
+An app that only works when the user is standing on one foot.,invalid
+A mobile app that helps startups with habit building.,valid
+A SaaS tool for remote workers to automate expense tracking.,valid
+An online marketplace connecting students with legal advisors.,valid
+A SaaS tool for startups to automate expense tracking.,valid
+A SaaS tool for freelancers to automate email sorting.,valid
+An online marketplace connecting freelancers with local farmers.,valid
+A mobile app that helps students with habit building.,valid
+An app that only works when the user is standing on one foot.,invalid
+An AI-powered platform for startups to reduce burnout.,valid
+A device that turns shoes into pet translators.,invalid
+A business selling edible socks to aliens.,invalid
+A SaaS tool for small businesses to automate expense tracking.,valid
+An AI-powered platform for startups to automate billing.,valid
+A business selling edible socks to aliens.,invalid
+A subscription service for broken headphones.,invalid
+A SaaS tool for freelancers to automate expense tracking.,valid
+A subscription service for used tissues.,invalid
+A subscription service for plastic bags filled with air.,invalid
+A business selling edible socks to toddlers.,invalid
+An online marketplace connecting remote workers with designers.,valid
+A device that turns soap into air purifiers.,invalid
+A subscription service for plastic bags filled with air.,invalid
+A subscription service for broken headphones.,invalid
+A SaaS tool for freelancers to automate lead generation.,valid
+A subscription service for plastic bags filled with air.,invalid
+A mobile app that helps startups with budget tracking.,valid
+A subscription service for plastic bags filled with air.,invalid
+An AI-powered platform for students to manage their time.,valid
+A business selling edible socks to toddlers.,invalid
+A mobile app that helps startups with budget tracking.,valid
+An app that only works when the user is standing on one foot.,invalid
+A mobile app that helps startups with meal planning.,valid
+An app that only works when it is exactly 3:33 PM.,invalid
+An AI-powered platform for freelancers to prepare for interviews.,valid
+A SaaS tool for remote workers to automate lead generation.,valid
+An online marketplace connecting freelancers with local farmers.,valid
+An online marketplace connecting startups with designers.,valid
+A subscription service for plastic bags filled with air.,invalid
+A business selling invisible books to aliens.,invalid
+A subscription service for plastic bags filled with air.,invalid
+An AI-powered platform for remote workers to reduce burnout.,valid
+A SaaS tool for small businesses to automate lead generation.,valid
+A subscription service for used tissues.,invalid
+An AI-powered platform for students to manage their time.,valid
+An app that only works when it is exactly 3:33 PM.,invalid
+A subscription service for used tissues.,invalid
+A SaaS tool for students to automate expense tracking.,valid
+A subscription service for used tissues.,invalid
+A business selling square balls to toddlers.,invalid
+A business selling edible socks to aliens.,invalid
+An app that only works when the user is standing on one foot.,invalid
+A device that turns shoes into Bluetooth speakers.,invalid
+A mobile app that helps students with budget tracking.,valid
+A device that turns shoes into pet translators.,invalid
+A mobile app that helps remote workers with meal planning.,valid
+A SaaS tool for remote workers to automate expense tracking.,valid
+An app that only works when it is exactly 3:33 PM.,invalid
+A subscription service for used tissues.,invalid
+A SaaS tool for freelancers to automate lead generation.,valid
+A mobile app that helps remote workers with meal planning.,valid
+An online marketplace connecting freelancers with local farmers.,valid
+An online marketplace connecting remote workers with legal advisors.,valid
+An app that only works when the user is standing on one foot.,invalid
+A SaaS tool for freelancers to automate lead generation.,valid
+A subscription service for used tissues.,invalid
+A SaaS tool for small businesses to automate lead generation.,valid
+A subscription service for used tissues.,invalid
+A mobile app that helps remote workers with meal planning.,valid
+An app that only works when the user is standing on one foot.,invalid
+An AI-powered platform for students to manage their time.,valid
+An online marketplace connecting startups with local farmers.,valid
+An AI-powered platform for students to manage their time.,valid
+A subscription service for used tissues.,invalid
+A device that turns pencils into air purifiers.,invalid
+An online marketplace connecting small businesses with local farmers.,valid
+A business selling square balls to ghosts.,invalid
+A device that turns shoes into air purifiers.,invalid
+A subscription service for used tissues.,invalid
+An AI-powered platform for small businesses to manage their time.,valid
+An app that only works when it is exactly 3:33 PM.,invalid
+A device that turns door handles into air purifiers.,invalid
+An online marketplace connecting freelancers with local farmers.,valid
+A device that turns pencils into air purifiers.,invalid
+A SaaS tool for startups to automate expense tracking.,valid
+A business selling invisible books to pets.,invalid
+A mobile app that helps students with meal planning.,valid
+A subscription service for plastic bags filled with air.,invalid
+A subscription service for broken headphones.,invalid
+A mobile app that helps small businesses with habit building.,valid
+An AI-powered platform for remote workers to reduce burnout.,valid
+A subscription service for broken headphones.,invalid
+A business selling edible socks to ghosts.,invalid
+An app that only works when it is exactly 3:33 PM.,invalid
+A business selling edible socks to pets.,invalid
+A mobile app that helps students with habit building.,valid
+A device that turns soap into air purifiers.,invalid
+An app that only works when it is exactly 3:33 PM.,invalid
+A mobile app that helps remote workers with habit building.,valid
+A SaaS tool for students to automate expense tracking.,valid
+A device that turns soap into pet translators.,invalid
+A SaaS tool for freelancers to automate lead generation.,valid
+A mobile app that helps small businesses with meal planning.,valid
+A mobile app that helps freelancers with budget tracking.,valid
+A business selling edible socks to aliens.,invalid
+An online marketplace connecting freelancers with designers.,valid
+A device that turns shoes into Bluetooth speakers.,invalid
+A business selling square balls to pets.,invalid
+An AI-powered platform for freelancers to automate billing.,valid
+An online marketplace connecting remote workers with legal advisors.,valid
+A mobile app that helps students with meal planning.,valid
+A business selling square balls to ghosts.,invalid
+A SaaS tool for freelancers to automate expense tracking.,valid
+A subscription service for used tissues.,invalid
+A device that turns door handles into air purifiers.,invalid
+A business selling square balls to pets.,invalid
+An app that only works when it is exactly 3:33 PM.,invalid
+A business selling edible socks to aliens.,invalid
+An app that only works when the user is standing on one foot.,invalid
+An AI-powered platform for students to prepare for interviews.,valid
+An app that only works when the user is standing on one foot.,invalid
+An online marketplace connecting startups with legal advisors.,valid
+An AI-powered platform for small businesses to manage their time.,valid
+A subscription service for plastic bags filled with air.,invalid
+A SaaS tool for freelancers to automate lead generation.,valid
+A SaaS tool for small businesses to automate email sorting.,valid
+A SaaS tool for freelancers to automate email sorting.,valid
+A mobile app that helps small businesses with budget tracking.,valid
+A subscription service for broken headphones.,invalid
+A business selling edible socks to aliens.,invalid
+A device that turns soap into Bluetooth speakers.,invalid
+An online marketplace connecting startups with designers.,valid
+An app that only works when it is exactly 3:33 PM.,invalid
+A device that turns shoes into air purifiers.,invalid
+A mobile app that helps freelancers with meal planning.,valid
+A SaaS tool for remote workers to automate expense tracking.,valid
+An online marketplace connecting students with local farmers.,valid
+A subscription service for plastic bags filled with air.,invalid
+A subscription service for plastic bags filled with air.,invalid
+A subscription service for used tissues.,invalid
+An app that only works when it is exactly 3:33 PM.,invalid
+A business selling edible socks to aliens.,invalid
+An app that only works when it is exactly 3:33 PM.,invalid
+A mobile app that helps freelancers with budget tracking.,valid
+A SaaS tool for students to automate lead generation.,valid
+An AI-powered platform for small businesses to reduce burnout.,valid
+An online marketplace connecting students with designers.,valid
+A device that turns soap into air purifiers.,invalid
+An online marketplace connecting remote workers with local farmers.,valid
+A device that turns door handles into pet translators.,invalid
+A device that turns door handles into pet translators.,invalid
+A subscription service for used tissues.,invalid
+A SaaS tool for small businesses to automate expense tracking.,valid
+A SaaS tool for startups to automate expense tracking.,valid
+An online marketplace connecting remote workers with designers.,valid
+A business selling invisible books to toddlers.,invalid
+A SaaS tool for remote workers to automate expense tracking.,valid
+A device that turns soap into Bluetooth speakers.,invalid
+A device that turns pencils into air purifiers.,invalid
+An app that only works when the user is standing on one foot.,invalid
+A SaaS tool for students to automate email sorting.,valid
+An AI-powered platform for students to reduce burnout.,valid
+An online marketplace connecting remote workers with designers.,valid
+An AI-powered platform for freelancers to reduce burnout.,valid
+An AI-powered platform for remote workers to prepare for interviews.,valid
+A SaaS tool for small businesses to automate lead generation.,valid
+An app that only works when it is exactly 3:33 PM.,invalid
+A mobile app that helps startups with budget tracking.,valid
+An online marketplace connecting startups with designers.,valid
+An online marketplace connecting freelancers with legal advisors.,valid
+An online marketplace connecting small businesses with designers.,valid
+A device that turns shoes into Bluetooth speakers.,invalid
+A subscription service for broken headphones.,invalid
+An AI-powered platform for students to reduce burnout.,valid
+A mobile app that helps remote workers with habit building.,valid
+A subscription service for used tissues.,invalid
+A business selling invisible books to toddlers.,invalid
+A device that turns door handles into air purifiers.,invalid
+An app that only works when the user is standing on one foot.,invalid
+A device that turns door handles into pet translators.,invalid
+A mobile app that helps students with meal planning.,valid
+A device that turns door handles into air purifiers.,invalid
+A subscription service for plastic bags filled with air.,invalid
+An app that only works when it is exactly 3:33 PM.,invalid
+A subscription service for plastic bags filled with air.,invalid
+An online marketplace connecting startups with local farmers.,valid
+A mobile app that helps freelancers with meal planning.,valid
+A SaaS tool for students to automate expense tracking.,valid
+A business selling edible socks to ghosts.,invalid
+An app that only works when the user is standing on one foot.,invalid
+A mobile app that helps freelancers with meal planning.,valid
+A SaaS tool for freelancers to automate email sorting.,valid
+A device that turns door handles into pet translators.,invalid
+An AI-powered platform for remote workers to reduce burnout.,valid
+An online marketplace connecting small businesses with designers.,valid
+A business selling edible socks to aliens.,invalid
+A SaaS tool for students to automate expense tracking.,valid
+An AI-powered platform for freelancers to manage their time.,valid
+An app that only works when it is exactly 3:33 PM.,invalid
+A SaaS tool for small businesses to automate email sorting.,valid
+A mobile app that helps startups with meal planning.,valid
+An app that only works when the user is standing on one foot.,invalid
+An AI-powered platform for remote workers to reduce burnout.,valid
+A business selling invisible books to toddlers.,invalid
+A business selling square balls to pets.,invalid
+A mobile app that helps remote workers with meal planning.,valid
+A subscription service for used tissues.,invalid
+A mobile app that helps remote workers with budget tracking.,valid
+A business selling invisible books to ghosts.,invalid
+A subscription service for broken headphones.,invalid
+An app that only works when it is exactly 3:33 PM.,invalid
+A subscription service for broken headphones.,invalid
+A mobile app that helps startups with habit building.,valid
+A SaaS tool for freelancers to automate email sorting.,valid
+A mobile app that helps students with habit building.,valid
+A mobile app that helps small businesses with budget tracking.,valid
+An app that only works when the user is standing on one foot.,invalid
+An online marketplace connecting small businesses with designers.,valid
+An online marketplace connecting students with designers.,valid
+An online marketplace connecting freelancers with designers.,valid
+A device that turns door handles into air purifiers.,invalid
+An AI-powered platform for startups to reduce burnout.,valid
+An AI-powered platform for freelancers to reduce burnout.,valid
+A SaaS tool for freelancers to automate email sorting.,valid
+A business selling edible socks to ghosts.,invalid
+A mobile app that helps remote workers with habit building.,valid
+A business selling edible socks to ghosts.,invalid
+A SaaS tool for students to automate lead generation.,valid
+An app that only works when it is exactly 3:33 PM.,invalid
+A SaaS tool for freelancers to automate email sorting.,valid
+A device that turns shoes into air purifiers.,invalid
+A SaaS tool for small businesses to automate lead generation.,valid
+A mobile app that helps students with habit building.,valid
+An AI-powered platform for startups to prepare for interviews.,valid
+An AI-powered platform for startups to automate billing.,valid
+A business selling square balls to pets.,invalid
+A business selling square balls to toddlers.,invalid
+A SaaS tool for remote workers to automate lead generation.,valid
+A SaaS tool for freelancers to automate lead generation.,valid
+An online marketplace connecting remote workers with local farmers.,valid
+An AI-powered platform for small businesses to prepare for interviews.,valid
+An online marketplace connecting small businesses with local farmers.,valid
+A device that turns door handles into Bluetooth speakers.,invalid
+A device that turns pencils into pet translators.,invalid
+An app that only works when the user is standing on one foot.,invalid
+An app that only works when it is exactly 3:33 PM.,invalid
+A SaaS tool for small businesses to automate lead generation.,valid
+A business selling square balls to ghosts.,invalid
+A mobile app that helps students with habit building.,valid
+An AI-powered platform for remote workers to prepare for interviews.,valid
+A business selling invisible books to ghosts.,invalid
+An app that only works when it is exactly 3:33 PM.,invalid
+A subscription service for broken headphones.,invalid
+A SaaS tool for startups to automate expense tracking.,valid
+A device that turns pencils into Bluetooth speakers.,invalid
+An AI-powered platform for small businesses to reduce burnout.,valid
+A device that turns door handles into air purifiers.,invalid
+A device that turns door handles into pet translators.,invalid
+An AI-powered platform for remote workers to manage their time.,valid
+A business selling square balls to toddlers.,invalid
+A business selling square balls to toddlers.,invalid
+A subscription service for used tissues.,invalid
+A SaaS tool for small businesses to automate email sorting.,valid
+A SaaS tool for small businesses to automate lead generation.,valid
+An app that only works when the user is standing on one foot.,invalid
+An online marketplace connecting startups with designers.,valid
+A mobile app that helps freelancers with habit building.,valid
+A mobile app that helps students with budget tracking.,valid
+A business selling edible socks to aliens.,invalid
+An online marketplace connecting remote workers with legal advisors.,valid
+An online marketplace connecting remote workers with designers.,valid
+An app that only works when the user is standing on one foot.,invalid
+An app that only works when the user is standing on one foot.,invalid
+A business selling invisible books to toddlers.,invalid
+A device that turns soap into pet translators.,invalid
+A subscription service for plastic bags filled with air.,invalid
+An online marketplace connecting freelancers with legal advisors.,valid
+A business selling invisible books to ghosts.,invalid
+An online marketplace connecting students with designers.,valid
+An AI-powered platform for remote workers to automate billing.,valid
+An AI-powered platform for freelancers to manage their time.,valid
+A mobile app that helps small businesses with meal planning.,valid
+A SaaS tool for freelancers to automate lead generation.,valid
+An online marketplace connecting freelancers with local farmers.,valid
+An online marketplace connecting students with local farmers.,valid
+An app that only works when the user is standing on one foot.,invalid
+An AI-powered platform for startups to automate billing.,valid
+A SaaS tool for remote workers to automate email sorting.,valid
+A business selling edible socks to ghosts.,invalid
+A business selling edible socks to toddlers.,invalid
+A mobile app that helps freelancers with meal planning.,valid
+An online marketplace connecting remote workers with local farmers.,valid
+An app that only works when it is exactly 3:33 PM.,invalid
+A SaaS tool for remote workers to automate email sorting.,valid
+A SaaS tool for students to automate email sorting.,valid
+A subscription service for plastic bags filled with air.,invalid
+A mobile app that helps small businesses with habit building.,valid
+A business selling square balls to aliens.,invalid
+A subscription service for used tissues.,invalid
+A device that turns shoes into air purifiers.,invalid
+A SaaS tool for startups to automate expense tracking.,valid
+An AI-powered platform for remote workers to prepare for interviews.,valid
+A business selling invisible books to pets.,invalid
+An AI-powered platform for small businesses to automate billing.,valid
+A mobile app that helps small businesses with habit building.,valid
+A subscription service for used tissues.,invalid
+A SaaS tool for students to automate expense tracking.,valid
+An online marketplace connecting remote workers with designers.,valid
+An online marketplace connecting remote workers with designers.,valid
+An AI-powered platform for startups to prepare for interviews.,valid
+A mobile app that helps small businesses with budget tracking.,valid
+A mobile app that helps remote workers with meal planning.,valid
+A mobile app that helps remote workers with meal planning.,valid
+A SaaS tool for small businesses to automate expense tracking.,valid
+A device that turns soap into Bluetooth speakers.,invalid
+A business selling square balls to ghosts.,invalid
+An app that only works when it is exactly 3:33 PM.,invalid
+A device that turns soap into pet translators.,invalid
+A SaaS tool for startups to automate email sorting.,valid
+An online marketplace connecting small businesses with legal advisors.,valid
+A device that turns pencils into Bluetooth speakers.,invalid
+An AI-powered platform for freelancers to manage their time.,valid
+A subscription service for plastic bags filled with air.,invalid
+A subscription service for used tissues.,invalid
+A SaaS tool for students to automate email sorting.,valid
+A subscription service for broken headphones.,invalid
+An app that only works when the user is standing on one foot.,invalid
+A business selling square balls to toddlers.,invalid
+A subscription service for used tissues.,invalid
+A mobile app that helps startups with budget tracking.,valid
+An online marketplace connecting freelancers with local farmers.,valid
+A SaaS tool for small businesses to automate email sorting.,valid
+A subscription service for plastic bags filled with air.,invalid
+A mobile app that helps small businesses with budget tracking.,valid
+An app that only works when it is exactly 3:33 PM.,invalid
+A SaaS tool for startups to automate lead generation.,valid
+A mobile app that helps small businesses with budget tracking.,valid
+A device that turns pencils into air purifiers.,invalid
+A subscription service for broken headphones.,invalid
+A SaaS tool for remote workers to automate lead generation.,valid
+A subscription service for used tissues.,invalid
+A SaaS tool for freelancers to automate expense tracking.,valid
+A device that turns soap into Bluetooth speakers.,invalid
+A subscription service for plastic bags filled with air.,invalid
+A subscription service for used tissues.,invalid
+A business selling edible socks to pets.,invalid
+A subscription service for broken headphones.,invalid
+An online marketplace connecting remote workers with local farmers.,valid
+An app that only works when the user is standing on one foot.,invalid
+An AI-powered platform for freelancers to prepare for interviews.,valid
+A subscription service for broken headphones.,invalid
+An app that only works when the user is standing on one foot.,invalid
+A business selling square balls to pets.,invalid
+A mobile app that helps remote workers with habit building.,valid
+An AI-powered platform for students to automate billing.,valid
+An AI-powered platform for students to automate billing.,valid
+A SaaS tool for freelancers to automate expense tracking.,valid
+A device that turns pencils into air purifiers.,invalid
+A SaaS tool for students to automate lead generation.,valid
+A device that turns shoes into Bluetooth speakers.,invalid
+An AI-powered platform for startups to automate billing.,valid
+A subscription service for used tissues.,invalid
+A business selling invisible books to aliens.,invalid
+An AI-powered platform for students to prepare for interviews.,valid
+A mobile app that helps freelancers with budget tracking.,valid
+A device that turns pencils into air purifiers.,invalid
+An AI-powered platform for small businesses to automate billing.,valid
+A SaaS tool for freelancers to automate email sorting.,valid
+An app that only works when it is exactly 3:33 PM.,invalid
+A device that turns soap into pet translators.,invalid
+A SaaS tool for freelancers to automate expense tracking.,valid
+A business selling square balls to ghosts.,invalid
+An AI-powered platform for startups to reduce burnout.,valid
+A device that turns soap into air purifiers.,invalid
+A device that turns soap into Bluetooth speakers.,invalid
+A SaaS tool for students to automate expense tracking.,valid
+A SaaS tool for freelancers to automate lead generation.,valid
+A mobile app that helps small businesses with habit building.,valid
+An AI-powered platform for remote workers to reduce burnout.,valid
+A device that turns shoes into pet translators.,invalid
+An app that only works when the user is standing on one foot.,invalid
+A business selling invisible books to ghosts.,invalid
+A business selling edible socks to toddlers.,invalid
+An AI-powered platform for freelancers to prepare for interviews.,valid
+A SaaS tool for freelancers to automate lead generation.,valid
+An online marketplace connecting students with designers.,valid
+A SaaS tool for startups to automate expense tracking.,valid
+A business selling edible socks to ghosts.,invalid
+An online marketplace connecting small businesses with designers.,valid
+An app that only works when it is exactly 3:33 PM.,invalid
+An AI-powered platform for students to reduce burnout.,valid
+A mobile app that helps students with meal planning.,valid
+A subscription service for plastic bags filled with air.,invalid
+A mobile app that helps freelancers with habit building.,valid
+An online marketplace connecting students with legal advisors.,valid
+An app that only works when the user is standing on one foot.,invalid
+A mobile app that helps small businesses with habit building.,valid
+An app that only works when the user is standing on one foot.,invalid
+An online marketplace connecting students with local farmers.,valid
+An app that only works when it is exactly 3:33 PM.,invalid
+An online marketplace connecting small businesses with local farmers.,valid
+A subscription service for broken headphones.,invalid
+An app that only works when the user is standing on one foot.,invalid
+A mobile app that helps small businesses with budget tracking.,valid
+A device that turns door handles into pet translators.,invalid
+A SaaS tool for remote workers to automate lead generation.,valid
+A device that turns pencils into pet translators.,invalid
+A business selling square balls to toddlers.,invalid
+A mobile app that helps remote workers with habit building.,valid
+A mobile app that helps startups with meal planning.,valid
+A mobile app that helps students with habit building.,valid
+A subscription service for broken headphones.,invalid
+An app that only works when the user is standing on one foot.,invalid
+An AI-powered platform for remote workers to prepare for interviews.,valid
+A subscription service for used tissues.,invalid
+A mobile app that helps startups with budget tracking.,valid
+A mobile app that helps small businesses with habit building.,valid
+A device that turns pencils into pet translators.,invalid
+An app that only works when the user is standing on one foot.,invalid
+An AI-powered platform for students to automate billing.,valid
+A mobile app that helps startups with habit building.,valid
+A mobile app that helps freelancers with habit building.,valid
+A device that turns soap into air purifiers.,invalid
+A subscription service for used tissues.,invalid
+An online marketplace connecting small businesses with legal advisors.,valid
+A business selling edible socks to pets.,invalid
+A business selling invisible books to toddlers.,invalid
+A business selling invisible books to ghosts.,invalid
+A business selling edible socks to aliens.,invalid
+A mobile app that helps freelancers with budget tracking.,valid
+An AI-powered platform for students to manage their time.,valid
+A subscription service for broken headphones.,invalid
+A business selling edible socks to pets.,invalid
+A device that turns soap into air purifiers.,invalid
+A subscription service for used tissues.,invalid
+An app that only works when it is exactly 3:33 PM.,invalid
+An online marketplace connecting remote workers with designers.,valid
+A subscription service for broken headphones.,invalid
+An app that only works when it is exactly 3:33 PM.,invalid
+A device that turns pencils into pet translators.,invalid
+An online marketplace connecting remote workers with designers.,valid
+A device that turns door handles into air purifiers.,invalid
+An online marketplace connecting students with designers.,valid
+A device that turns shoes into pet translators.,invalid
+A business selling edible socks to ghosts.,invalid
+A mobile app that helps students with habit building.,valid
+A SaaS tool for students to automate lead generation.,valid
+A mobile app that helps small businesses with meal planning.,valid
+A mobile app that helps freelancers with habit building.,valid
+An online marketplace connecting small businesses with designers.,valid
+A business selling invisible books to pets.,invalid
+A business selling square balls to aliens.,invalid
+A subscription service for used tissues.,invalid
+An online marketplace connecting small businesses with legal advisors.,valid
+A mobile app that helps students with budget tracking.,valid
+An AI-powered platform for freelancers to reduce burnout.,valid
+An AI-powered platform for small businesses to automate billing.,valid
+An app that only works when it is exactly 3:33 PM.,invalid
+A subscription service for broken headphones.,invalid
+An AI-powered platform for startups to reduce burnout.,valid
+A SaaS tool for startups to automate email sorting.,valid
+A subscription service for plastic bags filled with air.,invalid
+A mobile app that helps small businesses with habit building.,valid
+A business selling square balls to pets.,invalid
+A SaaS tool for small businesses to automate email sorting.,valid
+An app that only works when the user is standing on one foot.,invalid
+An online marketplace connecting freelancers with legal advisors.,valid
+A SaaS tool for remote workers to automate email sorting.,valid
+A subscription service for plastic bags filled with air.,invalid
+An app that only works when it is exactly 3:33 PM.,invalid
+A device that turns pencils into air purifiers.,invalid
+A SaaS tool for students to automate email sorting.,valid
+A business selling square balls to toddlers.,invalid
+A device that turns door handles into pet translators.,invalid
+A device that turns soap into Bluetooth speakers.,invalid
+A mobile app that helps freelancers with budget tracking.,valid
+A mobile app that helps remote workers with habit building.,valid
+A device that turns pencils into Bluetooth speakers.,invalid
+An online marketplace connecting remote workers with legal advisors.,valid
+An AI-powered platform for remote workers to reduce burnout.,valid
+A device that turns soap into air purifiers.,invalid
+A SaaS tool for students to automate lead generation.,valid
+A business selling square balls to aliens.,invalid
+A business selling invisible books to pets.,invalid
+A subscription service for broken headphones.,invalid
+A SaaS tool for freelancers to automate email sorting.,valid
+A subscription service for used tissues.,invalid
+A subscription service for broken headphones.,invalid
+An AI-powered platform for small businesses to prepare for interviews.,valid
+An AI-powered platform for students to prepare for interviews.,valid
+A subscription service for broken headphones.,invalid
+An app that only works when it is exactly 3:33 PM.,invalid
+A SaaS tool for students to automate expense tracking.,valid
+A device that turns shoes into Bluetooth speakers.,invalid
+A subscription service for plastic bags filled with air.,invalid
